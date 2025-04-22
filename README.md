@@ -22,7 +22,7 @@ Idol 002: Gwee Zi Ni <br>
 <img align="center" width="30%" src = "" ><br>
 
 Idol 003: Leong Jia Ling <br>
-<img align="center" width="30%" src = "" ><br>
+<img align="center" width="30%" src = "![Image](https://github.com/user-attachments/assets/c5f1d950-acab-4e8e-a30c-285f2fe20949)" ><br>
 
 Idol 004: Michelle Ho Chia Xin <br>
 <img align="center" width="30%" src = "" ><br>
