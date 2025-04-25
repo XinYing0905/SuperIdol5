@@ -19,7 +19,7 @@ Idol 001: Lee Jia Yee <br>
 <img align="center" width="30%" src = "" ><br>
 
 Idol 002: Gwee Zi Ni <br>
-<img align="center" width="30%" src = "" ><br>
+<img align="center" width="30%" src = "Photos/Zini.jpg" ><br>
 
 Idol 003: Leong Jia Ling <br>
 <img align="center" width="15%" src = "Photos/JiaLing.jpg" ><br>
