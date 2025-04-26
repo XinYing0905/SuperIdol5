@@ -16,7 +16,7 @@ Stay tuned – because we’re just getting started! 😉
 
 # Meeting The SuperIdol5~
 Idol 001: Lee Jia Yee <br>
-<img align="center" width="15%" src = "Photo/jiayee.jpg" ><br>
+<img align="center" width="15%" src = "Photos/jiayee.jpg" ><br>
 
 Idol 002: Gwee Zi Ni <br>
 <img align="center" width="15%" src = "Photos/Zini.jpg" ><br>
