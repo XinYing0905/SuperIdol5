@@ -14,7 +14,7 @@ So whether it’s brainstorming UX solutions, building interfaces, or just makin
 
 Stay tuned – because we’re just getting started! 😉
 
-# Meeting The SuperIdols~
+# Meeting The SuperIdol5~
 Idol 001: Lee Jia Yee <br>
 <img align="center" width="30%" src = "" ><br>
 
