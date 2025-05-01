@@ -16,7 +16,8 @@ A lack of **responsive, mobile-friendly design** effectively excludes the very c
 ---
 
 ### Jabatan Bantuan Guaman (JBG) Website: Desktop vs Mobile View
-Source: <a href="[https://www.jbg.gov.my/index.php/en/]"> JBG website</a>
+Source: <a href="https://www.jbg.gov.my/index.php/en/">JBG website</a>
+
 
 <table>
   <tr>
