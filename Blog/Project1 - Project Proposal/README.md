@@ -46,66 +46,59 @@ One of the primary issues users face with current systems is overly complex of l
 - Inclusive design ensures access across diverse users
 
 
-### 2. Mobile-First, User-Centered Interface
-JustiLink is built using a **mobile-first strategy**, recognizing that mobile is the primary access point for many users.
+#### 2. Mobile-First, User-Centered Interface
+JustiLink is developed using a mobile-first strategy, recognizing that mobile is the primary access point for many users.
 
-#### 2.1 Responsive and Simplified UI
+#### - Responsive and Simplified UI
 - Optimized for small screens with:
   - Minimal text
-  - Large, clear icons
-  - Easy navigation
-- Icons represent legal topics (e.g., 🏠 = landlord issues, ⚖️ = justice)
+  - Large icons
+  - Easy-to-use navigation paths
+- Icons represent legal topics visually(🏠 = landlord issues, ⚖️ = justice)
 
-#### 2.2 Guided Navigation and Progressive Disclosure
-- Users go through a **step-by-step flow** with only essential information shown at each stage.
+#### - Guided Navigation and Progressive Disclosure
+- Users go through a step-by-step flow with only essential information shown at each stage.
 
-#### 2.3 Smart Search and Categorization
-- **Keyword suggestions** based on user input
-- Legal issues categorized by themes like:
+#### - Smart Search and Categorization
+- Keyword suggestions based on user input
+- Legal issues are categorized by themes like:
   - “Workplace Issues”
   - “Family Law”
   - “Student Rights”
 
-#### 2.4 Feedback and Affordance
-- **Real-time feedback** (animations, confirmations, haptics)
-- Intuitive UI design based on user expectations
+#### - Feedback and Affordance
+- Real-time feedback(animations, confirmations, haptics)
+- Interface design based on user expectations
 
-#### 2.5 HCI Principles Applied
-- **Mobile usability**: Optimized for small screens and quick access
-- **Progressive disclosure**: Prevents information overload
-- **System visibility**: Ensures users are always aware of system status
+#### - HCI Principles Applied
+- Mobile usability which tailored for handheld devices with minimal scrolling and fast load times
+- Progressive disclosure which reduces information overload and improved focus
+- Visibility of system status which ensures users are always aware of system status
 
----
 
 ### 3. Anonymous First Chat Feature
+To eliminate the fear of judgment, exposure or retribution, JustiLink offers an "Anonymous First Chat" to build trust and reduce user hesitation.
+#### - Zero-Barrier Entry
+- Users can initiate the conversation without registration or sharing personal information.
 
-To eliminate the fear of judgment or exposure, JustiLink offers a **safe, anonymous space** for first-time users to seek legal help.
+#### - Chatbot and Human Hybrid Model
+- NLP chatbot addresses general legal queries from a trained knowledge base.
+- Escalate to human legal consultants without restarting the conversation.
 
-#### 3.1 Zero-Barrier Entry
-- Users can chat **without registering** or sharing personal info.
+#### - Gradual Disclosure for Sensitive Users
+- Users are encouraged to register an account for additional services such as scheduling appointments or file uploading. 
 
-#### 3.2 Chatbot and Human Hybrid Model
-- **NLP chatbot** handles general queries.
-- Escalation to **human legal consultants** when needed, without restarting the conversation.
+#### - Secure, Encrypted Conversations
+- Conversations are end-to-end encrypted.
+- No data is retained without their permission.
 
-#### 3.3 Gradual Disclosure
-- Users can choose to **register later** to access more features (e.g., file uploads, appointment booking).
+#### - Empathetic Interaction Design
+- Chat interface is designed with a calming color palette and friendly microcopy like “You're not alone".
 
-#### 3.4 Secure, Encrypted Conversations
-- All chats are **end-to-end encrypted**.
-- Data is **not stored** without consent – in line with **privacy-by-design**.
-
-#### 3.5 Empathetic Interaction Design
-- Friendly interface with **calming colors** and **reassuring messages** (e.g., “You're not alone”).
-
-#### 3.6 HCI Principles Applied
-- **Trust-centered design**: Anonymity and security build user confidence.
-- **Affective computing**: Emotionally supportive interface.
-- **Low-commitment interaction**: Encourages users to take the first step easily.
-
----
-
-🎯 JustiLink is designed to meet real-world legal needs with a focus on **empathy**, **accessibility**, and **ease of use**. Through thoughtful application of **HCI principles**, it creates a safe, practical, and inclusive legal support system.
+#### - HCI Principles Applied
+- Trust-centered design which builds confidence through anonymity and security.
+- Affective computing which interface elements are emotionally intelligent and empathetic.
+- Low-commitment interaction which reduces entry friction and encourages trial use.
 
 ## 3) Target Users
 ### 👥 Making Legal Help Accessible for All
