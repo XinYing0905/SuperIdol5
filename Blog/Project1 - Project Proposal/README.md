@@ -48,16 +48,13 @@ The Malaysian Bar Council website relies heavily on dense text, minimal visuals,
 Recently, an AI deepfake scandal at Foon Yew High School raised serious concerns about digital safety and trust in institutions. A female student revealed that her photo was used to generate explicit AI-generated images, which were sold and distributed online. Despite the severity of the case, her request to report the incident to police was rejected by a school authority—allegedly to protect the school's reputation. The perpetrator received only minor disciplinary action.
 
 ![Screenshot of victim’s statement](Blog/Figures/1.0.png)  
-**Figure 1.0. A screenshot of a victim’s statement posted on Instagram**
+**Figure 1.4.0 A screenshot of a victim’s statement posted on Instagram**
 
 This case highlights the fear and mistrust many victims feel when seeking help from formal institutions. The school’s passive response and lack of confidentiality discouraged others from coming forward. Only after the incident went viral on social media did more victims—some as young as 14—share their experiences.
 
 From a **Usability and UX** perspective, this reveals major flaws in current reporting systems. The absence of an **anonymous**, **intuitive**, and **emotionally supportive** reporting tool created a barrier for victims who feared stigma or retaliation. UX design in this context should focus on **safety**, **emotional reassurance**, and **ease of use**, particularly for young or vulnerable users.
 
 To encourage reporting and protect users, legal aid systems must align with usability goals such as **Learnability**, **Accessibility**, and **User Confidence**, and UX goals like **Emotional Satisfaction** and **Trust**. These principles are essential to build tools that empower users to seek help without fear.
-### 1.4 Problem 3: Fear of formal Institution and Lack of Anonymity
-Recently, an AI deepfake scandal at Foon Yew High School has garnered significant public attention, raising serious concerns about the safety and protection of young people in the digital age. A female student bravely came forward on social media, revealing that a classmate had used her photo to generate explicit nude images using AI technology and profited from selling them. These manipulated images were distributed on social media platforms and private Telegram groups, sparking widespread outrage and causing severe emotional and psychological distress to the victims (The Online Citizen, 2025).
-
 
 ## 2) Proposed Solution 💡
 
