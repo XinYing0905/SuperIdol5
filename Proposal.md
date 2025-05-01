@@ -32,11 +32,11 @@ A lack of **responsive, mobile-friendly design** effectively excludes the very c
       <strong>Figure 1.3.2</strong><br>Mobile view
     </td>
   </tr>
-  <br> Source: <a href="[https://aplikasi.jbg.gov.my/myjanjitemu/index.php#features](https://www.malaysianbar.org.my/)"> <br>
 </table>
 
 
-> ⚠️ The **JBG website** is clearly optimized for full-screen desktop viewing. However, when accessed in smaller windows or on mobile devices, it shows significant issues:
+> ⚠️ The 
+<a href="[https://aplikasi.jbg.gov.my/myjanjitemu/index.php#features](https://www.malaysianbar.org.my/)"> JBG website</a> is clearly optimized for full-screen desktop viewing. However, when accessed in smaller windows or on mobile devices, it shows significant issues:
 > - Images fail to resize properly  
 > - Overlapping icons obstruct the text  
 > - Layout becomes inconsistent and messy
