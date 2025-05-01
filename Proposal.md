@@ -76,16 +76,47 @@ This violates UX principles of being **Enjoyable**, **Motivating**, and **Emotio
 
 ## 1.4 Problem 3: Fear of Formal Institutions and Lack of Anonymity
 
-Recently, an AI deepfake scandal at Foon Yew High School raised serious concerns about digital safety and trust in institutions. A female student revealed that her photo was used to generate explicit AI-generated images, which were sold and distributed online. Despite the severity of the case, her request to report the incident to police was rejected by a school authority—allegedly to protect the school's reputation. The perpetrator received only minor disciplinary action.
+Recently, an AI deepfake scandal at **Foon Yew High School** raised serious concerns about **digital safety** and **trust in institutions**. A female student revealed that her photo was used to generate explicit AI-generated images, which were then sold and distributed online. Despite the seriousness of the case, her request to report the incident to police was rejected by a school authority—allegedly to protect the school's reputation. The perpetrator received only minor disciplinary action.
 
-![Screenshot of victim’s statement](Blog/Figures/1.4.0.png)  
-**Figure 1.4.0 A screenshot of a victim’s statement posted on Instagram**
+<p align="center">
+  <img src="Blog/Figures/1.4.0.png" width="500"><br>
+  <strong>Figure 1.4.0</strong>: A screenshot of the victim’s statement posted on Instagram
+</p>
 
-This case highlights the fear and mistrust many victims feel when seeking help from formal institutions. The school’s passive response and lack of confidentiality discouraged others from coming forward. Only after the incident went viral on social media did more victims—some as young as 14—share their experiences.
+This case highlights the **fear and mistrust** many victims feel when seeking help from formal institutions. The school’s passive response and lack of confidentiality discouraged others from coming forward. Only after the incident went viral on social media did more victims—some as young as 14—begin to share their own experiences.
 
-From a **Usability and UX** perspective, this reveals major flaws in current reporting systems. The absence of an **anonymous**, **intuitive**, and **emotionally supportive** reporting tool created a barrier for victims who feared stigma or retaliation. UX design in this context should focus on **safety**, **emotional reassurance**, and **ease of use**, particularly for young or vulnerable users.
+---
 
-To encourage reporting and protect users, legal aid systems must align with usability goals such as **Learnability**, **Accessibility**, and **User Confidence**, and UX goals like **Emotional Satisfaction** and **Trust**. These principles are essential to build tools that empower users to seek help without fear.
+From a **Usability and UX perspective**, this situation reveals major flaws in current reporting systems. The absence of an:
+
+- **Anonymous**
+- **Intuitive**
+- **Emotionally supportive**
+
+reporting tool created a significant barrier for victims—especially young users—who feared **stigma**, **judgment**, or **retaliation**.
+
+To address this, UX design should prioritize:
+
+- 🛡️ **Safety**
+- 💬 **Emotional reassurance**
+- 🖱️ **Ease of use**
+
+These elements are especially crucial for **young**, **digitally vulnerable**, or **first-time** users navigating traumatic experiences.
+
+---
+
+To encourage reporting and protect users, legal aid systems must align with key usability and UX goals:
+
+### Usability Goals:
+- **Learnability** – Easy to understand for first-time users  
+- **Accessibility** – Inclusive for users with diverse needs or devices  
+- **User Confidence** – Instills trust and a sense of control  
+
+### UX Goals:
+- **Emotional Satisfaction** – Comfort and support during stressful tasks  
+- **Trust** – Confidential, non-judgmental, and secure user experience  
+
+These principles are essential to design **tools that empower victims to seek help without fear**.
 
 ## 2) Proposed Solution 💡
 
