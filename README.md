@@ -61,6 +61,19 @@ The ‘5’ stands for **us**, and our united power as a team.
 
 ---
 
+## Our First Project — JustLink
+
+> _Smart, simple, and stress-free itinerary sharing._
+
+**JustLink** is a streamlined itinerary generator and sharing platform tailored for local car rental companies like **Hasta Travel**.  
+Instead of juggling PDFs, WhatsApp texts, and confusing Excel sheets, JustLink helps agencies create clear, clickable itineraries that can be instantly shared via a single link — with interactive maps, visuals, and flexible updates.
+
+It’s a modern, mobile-first approach to client communication that makes trip planning smoother for both agency and customer.
+
+→ Curious? Check out our [Project Proposal](proposal.md)
+
+---
+
 ### A Final Note  
 > _"We’re not just idols – we’re a vibe."_  
 Let’s design the future, one pixel and one heartbeat at a time.
