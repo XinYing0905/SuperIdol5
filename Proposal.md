@@ -78,7 +78,7 @@ This violates UX principles of being **Enjoyable**, **Motivating**, and **Emotio
 
 Recently, an AI deepfake scandal at Foon Yew High School raised serious concerns about digital safety and trust in institutions. A female student revealed that her photo was used to generate explicit AI-generated images, which were sold and distributed online. Despite the severity of the case, her request to report the incident to police was rejected by a school authority—allegedly to protect the school's reputation. The perpetrator received only minor disciplinary action.
 
-![Screenshot of victim’s statement](Blog/Figures/1.0.png)  
+![Screenshot of victim’s statement](Blog/Figures/1.4.0.png)  
 **Figure 1.4.0 A screenshot of a victim’s statement posted on Instagram**
 
 This case highlights the fear and mistrust many victims feel when seeking help from formal institutions. The school’s passive response and lack of confidentiality discouraged others from coming forward. Only after the incident went viral on social media did more victims—some as young as 14—share their experiences.
