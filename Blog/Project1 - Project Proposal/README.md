@@ -21,9 +21,6 @@ One of the primary issues users face with current systems is overly complex of l
 #### - Plain Language Rewriting
 - All legal content is rewritten in plain, conversational language.
 - Complex legal terms are translated into simpler equivalents.
-- Example:  
-  `Submit Form B-21 within 14 working days`  
-  `Send Form B-21 within 2 weeks`
 
 #### - Visual Step-by-Step Guides
 - Legal issue comes with the flowcharts, diagrams, or illustrations.
