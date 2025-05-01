@@ -70,7 +70,7 @@ Instead of juggling PDFs, WhatsApp texts, and confusing Excel sheets, JustLink h
 
 It’s a modern, mobile-first approach to client communication that makes trip planning smoother for both agency and customer.
 
-→ Curious? Check out our [Project Proposal](proposal.md)
+→ Curious? Check out our [Project Proposal](Proposal.md)
 
 ---
 
