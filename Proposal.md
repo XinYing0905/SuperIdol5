@@ -1,11 +1,11 @@
-## PROJECT 1 - PROJECT PROPOSAL
+# PROJECT 1 - PROJECT PROPOSAL
 
 ## 1) Problem 🤔
-## 1.1 Description of Problem Space
+### 1.1 Description of Problem Space
 Access to legal aid is crucial for ensuring justice and protecting rights, but many young people, immigrants, and marginalized communities face significant barriers when seeking legal help. Three main problems that can be seen as barriers are: complexity and legal jargon, outdated, non-mobile-friendly interfaces, and fear of formal institutions along with a lack of anonymity.
 These issues hinder equal access to justice, which is a key focus of UNESCO’s Sustainable Development Goal 16: Peace, Justice and Strong Institutions. Addressing these barriers is essential to build inclusive and accessible legal systems for all.
 
-## 1.3 Problem 2: Non-Mobile-Friendly, Outdated Interfaces
+### 1.3 Problem 2: Non-Mobile-Friendly, Outdated Interfaces
 
 In the digital age, **mobile accessibility is essential**—especially for young users, marginalized communities, and immigrants who often rely on smartphones as their primary or only means of accessing the internet. However, many official legal aid or reporting websites in Malaysia remain outdated, difficult to navigate on mobile devices, and not optimized for intuitive use.
 
@@ -15,7 +15,8 @@ A lack of **responsive, mobile-friendly design** effectively excludes the very c
 
 ---
 
-### Jabatan Bantuan Guaman (JBG) Website: Desktop vs Mobile View
+
+#### Jabatan Bantuan Guaman (JBG) Website: Desktop vs Mobile View
 Source: <a href="https://www.jbg.gov.my/index.php/en/">JBG website</a>
 
 
@@ -47,7 +48,8 @@ These problems violate the usability goals of **Accessibility** and **Effectiven
 
 ---
 
-### MyJanjiTemu Interface Issues
+
+#### MyJanjiTemu Interface Issues
 
 <p align="center">
   <img src="Blog/Figures/1.3.3.png" width="500"><br>
@@ -63,7 +65,7 @@ This suggests poor maintenance or an unfinished implementation, making the servi
 
 ---
 
-### Malaysian Bar Council Website: Text-Heavy & Unengaging
+#### Malaysian Bar Council Website: Text-Heavy & Unengaging
 
 <p align="center">
   <img src="Blog/Figures/1.3.4.png" width="500"><br>
@@ -78,7 +80,7 @@ The **Malaysian Bar Council website** heavily relies on dense blocks of text, mi
 
 This violates UX principles of being **Enjoyable**, **Motivating**, and **Emotionally Fulfilling**.
 
-## 1.4 Problem 3: Fear of Formal Institutions and Lack of Anonymity
+### 1.4 Problem 3: Fear of Formal Institutions and Lack of Anonymity
 
 Recently, an AI deepfake scandal at **Foon Yew High School** raised serious concerns about **digital safety** and **trust in institutions**. A female student revealed that her photo was used to generate explicit AI-generated images, which were then sold and distributed online. Despite the seriousness of the case, her request to report the incident to police was rejected by a school authority—allegedly to protect the school's reputation. The perpetrator received only minor disciplinary action.
 
