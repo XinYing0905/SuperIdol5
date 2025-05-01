@@ -1,32 +1,72 @@
-# Meet SuperIdol5 – Your UX Dream Team from UTM JB 🎉
-<img align="center" width="30%" src = "superIdol.jpg" ><br>
-21.4.2025 - The debut of SuperIdol5! <br>
-<br>
-Hey there! We’re SuperIdol5 – a passionate group of five students from the Faculty of Computing, Universiti Teknologi Malaysia (UTM), Johor Bahru. We came together with one shared mission: to enhance your user experience (UX) and make technology feel more human. 💻✨
+<h1 align="center">✨ Meet SuperIdol5 ✨<br>Your UX Dream Team from UTM JB</h1>
 
-You might be wondering: Why the name SuperIdol5? (especially since a few of us don’t exactly have K-pop visuals 😅). Well, the name is actually inspired by the word “SuperIdols,” but with a twist – we replaced the 's' with a ‘5’ to represent our team of five. Simple, catchy, and full of meaning.
+<p align="center">
+  <img src="superIdol.jpg" width="30%">
+</p>
 
-But it’s more than just a name.
+<p align="center"><strong>21.4.2025 – The debut of SuperIdol5!</strong></p>
 
-To us, SuperIdol5 is a reminder that no matter how rough life gets, each of us is still the super idol of our own story. 🌟 And just like any idol who shines on stage, we believe that becoming our best selves requires dedication, hard work, and a determination to grow – qualities that we proudly bring into every project we take on.
+---
 
-So whether it’s brainstorming UX solutions, building interfaces, or just making tech more user-friendly, SuperIdol5 is here to bring creativity, heart, and a touch of sparkle to everything we do.
+### Hello World!
 
-Stay tuned – because we’re just getting started! 😉
+We’re **SuperIdol5** – five passionate UX dreamers from the Faculty of Computing, Universiti Teknologi Malaysia (UTM), Johor Bahru.
 
-# Meeting The SuperIdol5~
-Idol 001: Lee Jia Yee <br>
-<img align="center" width="15%" src = "Photos/jiayee.jpg" ><br>
+Our mission?  
+To make tech more **human**, more **beautiful**, and more **you**.  
+Because great user experience isn't just design – it’s storytelling, empathy, and a little sparkle. ✨
 
-Idol 002: Gwee Zi Ni <br>
-<img align="center" width="15%" src = "Photos/Zini.jpg" ><br>
+> _Why “SuperIdol5”?_  
+Not because we look like K-pop stars (although we try) – but because we each believe in **owning our story** and shining in our own way.  
+The ‘5’ stands for **us**, and our united power as a team.
 
-Idol 003: Leong Jia Ling <br>
-<img align="center" width="15%" src = "Photos/JiaLing.jpg" ><br>
+---
 
-Idol 004: Michelle Ho Chia Xin <br>
-<img align="center" width="15%" src = "https://github.com/XinYing0905/Super-Mafia/blob/main/Photos/Michelle_github_hci.jpg" ><br>
+## Meet the Members
 
-Idol 005: Tay Xin Ying <br>
-<img align="center" width="15%" src = "Photos/20230521_122307.jpg" ><br>
-"Happy Go Lucky!"
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Photos/jiayee.jpg" width="120"><br>
+      <strong>Lee Jia Yee</strong><br>
+      <em>"Kindness is my superpower!"</em>
+    </td>
+    <td align="center">
+      <img src="Photos/Zini.jpg" width="120"><br>
+      <strong>Gwee Zi Ni</strong><br>
+      <em>"Keep calm and sparkle on!"</em>
+    </td>
+    <td align="center">
+      <img src="Photos/JiaLing.jpg" width="120"><br>
+      <strong>Leong Jia Ling</strong><br>
+      <em>"Chasing dreams with every beat!"</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/XinYing0905/Super-Mafia/blob/main/Photos/Michelle_github_hci.jpg" width="120"><br>
+      <strong>Michelle Ho Chia Xin</strong><br>
+      <em>"Slay with grace and glitter!"</em>
+    </td>
+    <td align="center">
+      <img src="Photos/20230521_122307.jpg" width="120"><br>
+      <strong>Tay Xin Ying</strong><br>
+      <em>"Happy Go Lucky!"</em>
+    </td>
+    <td align="center">
+      <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png" width="60"><br>
+    </td>
+  </tr>
+</table>
+
+---
+
+### A Final Note  
+> _"We’re not just idols – we’re a vibe."_  
+Let’s design the future, one pixel and one heartbeat at a time.
+
+---
+
+<p align="center">
+  Made with heart by <strong>SuperIdol5</strong> – Faculty of Computing, UTM JB
+</p>
