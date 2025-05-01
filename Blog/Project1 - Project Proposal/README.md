@@ -1,8 +1,8 @@
 ## PROJECT 1 - PROJECT PROPOSAL
 
-## 1) Problem
+## 1) Problem 🤔
 
-## 2) Proposed Solution
+## 2) Proposed Solution 💡
 
 ### 🦸🏻JustiLink 
 
@@ -14,7 +14,7 @@ A human-centered legal aid platform specifically designed for disadvantaged grou
 
 ### 🧩 Key Features of JustiLink
 
-#### 1. Simplified Legal Content
+#### 1.  Simplified Legal Content 📋
 
 One of the primary issues users face with current systems is overly complex of legal language. JustiLink solve this problem through several solutions:
 
@@ -46,7 +46,7 @@ One of the primary issues users face with current systems is overly complex of l
 - Inclusive design ensures access across diverse users
 
 
-#### 2. Mobile-First, User-Centered Interface
+#### 2. Mobile-First, User-Centered Interface 📱
 JustiLink is developed using a mobile-first strategy, recognizing that mobile is the primary access point for many users.
 
 #### - Responsive and Simplified UI
@@ -76,7 +76,7 @@ JustiLink is developed using a mobile-first strategy, recognizing that mobile is
 - Visibility of system status which ensures users are always aware of system status
 
 
-### 3. Anonymous First Chat Feature
+### 3. Anonymous First Chat Feature 🤫
 To eliminate the fear of judgment, exposure or retribution, JustiLink offers an "Anonymous First Chat" to build trust and reduce user hesitation.
 #### - Zero-Barrier Entry
 - Users can initiate the conversation without registration or sharing personal information.
@@ -100,7 +100,7 @@ To eliminate the fear of judgment, exposure or retribution, JustiLink offers an 
 - Affective computing which interface elements are emotionally intelligent and empathetic.
 - Low-commitment interaction which reduces entry friction and encourages trial use.
 
-## 3) Target Users
+## 3) Target Users 🎯
 ### 👥 Making Legal Help Accessible for All
 
 JustiLink is designed to solve and address legal problems for people from different social backgrounds. The key target user groups are:
