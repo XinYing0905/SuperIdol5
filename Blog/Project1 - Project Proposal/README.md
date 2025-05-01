@@ -73,7 +73,7 @@ JustiLink is developed using a mobile-first strategy, recognizing that mobile is
 - Visibility of system status which ensures users are always aware of system status
 
 
-### 3. Anonymous First Chat Feature 🤫
+#### 3. Anonymous First Chat Feature 🤫
 To eliminate the fear of judgment, exposure or retribution, JustiLink offers an "Anonymous First Chat" to build trust and reduce user hesitation.
 #### - Zero-Barrier Entry
 - Users can initiate the conversation without registration or sharing personal information.
