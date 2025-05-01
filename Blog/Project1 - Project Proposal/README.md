@@ -10,7 +10,7 @@ In the digital age, mobile accessibility is essential—especially for young use
 
 ### Desktop vs Mobile View – Jabatan Bantuan Guaman (JBG) Website
 
-<img align="center" width="30%" src = "1.3.0.png" ><br>
+<img align="center" width="30%" src = "Photos/1.3.0.png" ><br>
 Full screen PC view of JBG website
 
 **Figure 1.3.0. Full screen PC view of JBG website**
