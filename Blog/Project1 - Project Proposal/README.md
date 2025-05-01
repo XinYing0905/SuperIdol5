@@ -1,8 +1,8 @@
 ## PROJECT 1 - PROJECT PROPOSAL
 
-## Problem
+## 1) Problem
 
-## Proposed Solution
+## 2) Proposed Solution
 
 ### 🦸🏻JustiLink 
 
