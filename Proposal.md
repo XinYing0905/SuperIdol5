@@ -6,42 +6,73 @@ Access to legal aid is crucial for ensuring justice and protecting rights, but m
 These issues hinder equal access to justice, which is a key focus of UNESCO’s Sustainable Development Goal 16: Peace, Justice and Strong Institutions. Addressing these barriers is essential to build inclusive and accessible legal systems for all.
 
 ## 1.3 Problem 2: Non-Mobile-Friendly, Outdated Interfaces
-In the digital age, mobile accessibility is essential—especially for young users, marginalized communities, and immigrants who often rely on smartphones as their primary or only means of accessing the internet. However, many official legal aid or reporting websites in Malaysia remain outdated, difficult to navigate on mobile devices, and not optimized for intuitive use. This creates significant barriers for individuals who may already struggle with language challenges, limited digital literacy, or unstable internet access. For these users, particularly during urgent or distressing situations, the inability to quickly and easily access legal help via mobile can result in delays in justice, increased vulnerability, and a sense of helplessness. A lack of responsive, mobile-friendly design effectively excludes the very communities that most need accessible legal support.
 
-### Desktop vs Mobile View – Jabatan Bantuan Guaman (JBG) Website
+In the digital age, **mobile accessibility is essential**—especially for young users, marginalized communities, and immigrants who often rely on smartphones as their primary or only means of accessing the internet. However, many official legal aid or reporting websites in Malaysia remain outdated, difficult to navigate on mobile devices, and not optimized for intuitive use.
 
-<img align="center" width="30%" src = "Photos/1.3.0.png" ><br>
-Full screen PC view of JBG website
+This creates significant barriers for individuals who may already struggle with **language challenges**, **limited digital literacy**, or **unstable internet access**. During urgent or distressing situations, the inability to quickly and easily access legal help via mobile can result in **delays in justice**, **increased vulnerability**, and a **sense of helplessness**.
 
-**Figure 1.3.0. Full screen PC view of JBG website**
+A lack of **responsive, mobile-friendly design** effectively excludes the very communities that most need accessible legal support.
 
-![Mini-window view of JBG website](Blog/Figures/1.3.1.png)  
-**Figure 1.3.1. Mini-window view of JBG website**
+---
 
-![Mobile view of JBG website](Blog/Figures/1.3.2.png)  
-**Figure 1.3.2. Mobile view of JBG website**
+### Jabatan Bantuan Guaman (JBG) Website: Desktop vs Mobile View
 
-The Jabatan Bantuan Guaman Malaysia (JBG) website is clearly optimized for full-screen desktop viewing. However, when accessed in a resized browser window or on a mobile device, the site exhibits significant usability issues. In the mini-window view, images do not resize appropriately, and in mobile view, overlapping icons obstruct the text while the layout becomes inconsistent and disorganized.
+<table>
+  <tr>
+    <td align="center">
+      <img src="Photos/1.3.0.png" width="250"><br>
+      <strong>Figure 1.3.0</strong><br>Full screen PC view
+    </td>
+    <td align="center">
+      <img src="Blog/Figures/1.3.1.png" width="250"><br>
+      <strong>Figure 1.3.1</strong><br>Mini-window view
+    </td>
+    <td align="center">
+      <img src="Blog/Figures/1.3.2.png" width="250"><br>
+      <strong>Figure 1.3.2</strong><br>Mobile view
+    </td>
+  </tr>
+</table>
 
-These problems violate the usability goals of **Accessibility** and **Effectiveness**, which stress that information should be easily viewable on smartphones, with large touch targets and clear navigation. The site also fails to meet UX goals of being **Accessible** and **Satisfying**, as it does not deliver a smooth, pleasant experience across devices.
+> ⚠️ The **JBG website** is clearly optimized for full-screen desktop viewing. However, when accessed in smaller windows or on mobile devices, it shows significant issues:
+> - Images fail to resize properly  
+> - Overlapping icons obstruct the text  
+> - Layout becomes inconsistent and messy
+
+These problems violate the usability goals of **Accessibility** and **Effectiveness**, as well as the UX goals of being **Accessible** and **Satisfying**.
+
+---
 
 ### MyJanjiTemu Interface Issues
 
-![Interface of MyJanjiTemu](Blog/Figures/1.3.3.png)  
-**Figure 1.3.3. Interface of MyJanjiTemu**  
-*Source: [MyJanjiTemu](https://aplikasi.jbg.gov.my/myjanjitemu/index.php#features)*
+<p align="center">
+  <img src="Blog/Figures/1.3.3.png" width="500"><br>
+  <strong>Figure 1.3.3</strong>: Interface of <a href="https://aplikasi.jbg.gov.my/myjanjitemu/index.php#features">MyJanjiTemu</a>
+</p>
 
-Within the JBG website, the **MyJanjiTemu** feature is designed to allow users to make legal advising appointments. However, the top-right directory button is non-functional, suggesting that the feature is either incomplete or poorly maintained. As a result, users cannot access essential services like checking available services, branch locations, office hours, or an FAQ section.
+The **MyJanjiTemu** feature within the JBG website is intended to help users make legal advising appointments. However:
 
-### Malaysian Bar Council Website
+- The top-right menu icon is **non-functional**
+- Critical sections like **available services**, **branch locations**, and **FAQs** are inaccessible
 
-![Interfaces of Malaysian Bar Council](Blog/Figures/1.3.4.png)  
-**Figure 1.3.4. Interfaces of Malaysian Bar Council (Badan Peguam Malaysia)**  
-*Source: [Malaysian Bar](https://www.malaysianbar.org.my/)*
-
-The Malaysian Bar Council website relies heavily on dense text, minimal visuals, and a limited color palette. This contributes to a dry, cognitively demanding user interface that is not engaging for young or less literate users. This contradicts key UX goals such as being **Enjoyable**, **Cognitively Stimulating**, **Emotionally Fulfilling**, and **Motivating**.
+This suggests poor maintenance or an unfinished implementation, making the service ineffective in practice.
 
 ---
+
+### Malaysian Bar Council Website: Text-Heavy & Unengaging
+
+<p align="center">
+  <img src="Blog/Figures/1.3.4.png" width="500"><br>
+  <strong>Figure 1.3.4</strong>: Malaysian Bar Council Website UI  
+  Source: <a href="https://www.malaysianbar.org.my/">Malaysian Bar</a>
+</p>
+
+The **Malaysian Bar Council website** heavily relies on dense blocks of text, minimal graphics, and a bland color scheme, resulting in:
+
+- A **cognitively demanding** experience  
+- An interface that is **uninviting** for less literate or younger users
+
+This violates UX principles of being **Enjoyable**, **Motivating**, and **Emotionally Fulfilling**.
 
 ## 1.4 Problem 3: Fear of Formal Institutions and Lack of Anonymity
 
