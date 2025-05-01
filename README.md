@@ -61,16 +61,32 @@ The ‘5’ stands for **us**, and our united power as a team.
 
 ---
 
-## Our First Project — JustLink
+#---
 
-> _Smart, simple, and stress-free itinerary sharing._
+## Our First Project — JustiLink
 
-**JustLink** is a streamlined itinerary generator and sharing platform tailored for local car rental companies like **Hasta Travel**.  
-Instead of juggling PDFs, WhatsApp texts, and confusing Excel sheets, JustLink helps agencies create clear, clickable itineraries that can be instantly shared via a single link — with interactive maps, visuals, and flexible updates.
+> _Empowering justice, one link at a time._
 
-It’s a modern, mobile-first approach to client communication that makes trip planning smoother for both agency and customer.
+**JustiLink** is a youth-friendly legal help platform designed to bridge the gap between vulnerable communities and the legal assistance they need. Many legal aid websites are cluttered, full of jargon, and difficult to access—especially for young people, immigrants, and marginalized groups.
 
-→ Curious? Check out our [Project Proposal](Proposal.md)
+**JustiLink** solves that by offering:
+
+- A clean, mobile-first app and website
+- Personalized legal service directories by issue (bullying, landlord disputes, immigration, etc.)
+- Easy-to-understand guides with visuals, videos, and multilingual support
+- An "anonymous first chat" option to reduce fear and make help feel more accessible
+
+This project supports **SDG 16: Peace, Justice and Strong Institutions**, aiming to make justice approachable and inclusive.
+
+**Target Users:**  
+- Youths and students  
+- Migrants and foreign workers  
+- NGOs offering legal support
+
+→ Explore our vision in the [Project Proposal](Proposal.md)
+
+---
+
 
 ---
 
