@@ -16,7 +16,7 @@ A lack of **responsive, mobile-friendly design** effectively excludes the very c
 ---
 
 ### Jabatan Bantuan Guaman (JBG) Website: Desktop vs Mobile View
-Source: <a href="[https://aplikasi.jbg.gov.my/myjanjitemu/index.php#features](https://www.malaysianbar.org.my/)"> JBG website</a>
+Source: <a href="[https://aplikasi.jbg.gov.my]"> JBG website</a>
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ Source: <a href="[https://aplikasi.jbg.gov.my/myjanjitemu/index.php#features](ht
 
 
 > ⚠️ The 
-<a href="[https://aplikasi.jbg.gov.my/myjanjitemu/index.php#features](https://www.malaysianbar.org.my/)"> JBG website</a> is clearly optimized for full-screen desktop viewing. However, when accessed in smaller windows or on mobile devices, it shows significant issues:
+<a href="[https://aplikasi.jbg.gov.my/myjanjitemu/index.php#features]"> JBG website</a> is clearly optimized for full-screen desktop viewing. However, when accessed in smaller windows or on mobile devices, it shows significant issues:
 > - Images fail to resize properly  
 > - Overlapping icons obstruct the text  
 > - Layout becomes inconsistent and messy
