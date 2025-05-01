@@ -113,12 +113,12 @@ These elements are especially crucial for **young**, **digitally vulnerable**, o
 
 To encourage reporting and protect users, legal aid systems must align with key usability and UX goals:
 
-### Usability Goals:
+#### Usability Goals:
 - **Learnability** – Easy to understand for first-time users  
 - **Accessibility** – Inclusive for users with diverse needs or devices  
 - **User Confidence** – Instills trust and a sense of control  
 
-### UX Goals:
+#### UX Goals:
 - **Emotional Satisfaction** – Comfort and support during stressful tasks  
 - **Trust** – Confidential, non-judgmental, and secure user experience  
 
