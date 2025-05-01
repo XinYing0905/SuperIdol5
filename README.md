@@ -23,7 +23,6 @@ Idol 002: Gwee Zi Ni <br>
 
 Idol 003: Leong Jia Ling <br>
 <img align="center" width="15%" src = "Photos/JiaLing.jpg" ><br>
-"Rest to go further :)"
 
 Idol 004: Michelle Ho Chia Xin <br>
 <img align="center" width="15%" src = "https://github.com/XinYing0905/Super-Mafia/blob/main/Photos/Michelle_github_hci.jpg" ><br>
