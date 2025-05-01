@@ -28,5 +28,5 @@ Idol 004: Michelle Ho Chia Xin <br>
 <img align="center" width="15%" src = "https://github.com/XinYing0905/Super-Mafia/blob/main/Photos/Michelle_github_hci.jpg" ><br>
 
 Idol 005: Tay Xin Ying <br>
-<img align="center" width="15%" src = "" ><br>
+<img align="center" width="15%" src = "Photos/20230521_122307.jpg" ><br>
 "Happy Go Lucky!"
