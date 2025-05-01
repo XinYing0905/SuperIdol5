@@ -8,6 +8,9 @@ These issues hinder equal access to justice, which is a key focus of UNESCO’s 
 ### 1.3 Problem 2: Non-Mobile-Friendly, Outdated Interfaces
 In the digital age, mobile accessibility is essential—especially for young users, marginalized communities, and immigrants who often rely on smartphones as their primary or only means of accessing the internet. However, many official legal aid or reporting websites in Malaysia remain outdated, difficult to navigate on mobile devices, and not optimized for intuitive use. This creates significant barriers for individuals who may already struggle with language challenges, limited digital literacy, or unstable internet access. For these users, particularly during urgent or distressing situations, the inability to quickly and easily access legal help via mobile can result in delays in justice, increased vulnerability, and a sense of helplessness. A lack of responsive, mobile-friendly design effectively excludes the very communities that most need accessible legal support.
 
+### 1.4 Problem 3: Fear of formal Institution and Lack of Anonymity
+Recently, an AI deepfake scandal at Foon Yew High School has garnered significant public attention, raising serious concerns about the safety and protection of young people in the digital age. A female student bravely came forward on social media, revealing that a classmate had used her photo to generate explicit nude images using AI technology and profited from selling them. These manipulated images were distributed on social media platforms and private Telegram groups, sparking widespread outrage and causing severe emotional and psychological distress to the victims (The Online Citizen, 2025).
+
 
 ## 2) Proposed Solution 💡
 
