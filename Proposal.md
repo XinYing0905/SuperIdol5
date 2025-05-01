@@ -5,6 +5,52 @@
 Access to legal aid is crucial for ensuring justice and protecting rights, but many young people, immigrants, and marginalized communities face significant barriers when seeking legal help. Three main problems that can be seen as barriers are: complexity and legal jargon, outdated, non-mobile-friendly interfaces, and fear of formal institutions along with a lack of anonymity.
 These issues hinder equal access to justice, which is a key focus of UNESCO’s Sustainable Development Goal 16: Peace, Justice and Strong Institutions. Addressing these barriers is essential to build inclusive and accessible legal systems for all.
 
+### 1.2 Legal Jargon, Navigation Barriers, Poor User Guidance in Legal Aid Platforms
+
+Many legal aid websites use complicated legal language, also known as **legal jargon**, that ordinary users—especially young people, immigrants, and those without legal training—find difficult to understand. This makes it hard for them to learn how to use the platform efficiently or to understand their legal rights. Instead of guiding users clearly, these websites often make users feel overwhelmed or confused.
+
+The "**Legislation and Jurisdiction**" section of the **Jabatan Bantuan Guaman (JBG)** website shows an example of how legal jargon can create barriers for users. The jurisdiction section refers to the “Second” and “Third Schedules,” legal terms that are likely unfamiliar to most users. Phrases such as:
+
+> "pleads guilty to the charge or charges and wishes to make a plea in mitigation in respect thereof"
+
+are written in complex legal language that can overwhelm users, particularly youths, immigrants, or individuals without legal knowledge.
+
+According to the **Procedure for Legal Aid** section of the **Jabatan Bantuan Guaman (JBG)** website (n.d.), only a list of basic steps is provided, without any detailed explanation or guidance. For instance:
+
+- The step **"Applicant to fill up the means test and statutory declaration forms"** does not include links to the forms, directions on where to obtain them, or instructions for completing them.
+- Similarly, the instruction **"Means test conducted"** fails to explain the assessment criteria, required documents, or any additional information that applicants need to know.
+- The step **"Interview conducted to identify issues, remedies and needs of applicant"** provides no guidance on what to expect or prepare for.
+
+The lack of clear, step-by-step instruction makes it harder for users to understand the process. Users must search elsewhere for critical information, making the procedure for legal aid unnecessarily complex.
+
+This kind of complexity increases the effort users must make to understand what to do, which affects the usability of the system—especially in terms of **learnability** and **efficiency**. 
+
+From a **User Experience (UX)** perspective:
+- The lack of detailed guidance reduces **clarity** and **equity**.
+- The platform expects users to have some basic knowledge about the legal aid procedure, excluding groups like immigrants, students, and those unfamiliar with the legal system.
+- It reinforces feelings of exclusion for users already facing social or economic disadvantages.
+
+As a result, people may feel overwhelmed and give up before even applying for legal aid.
+
+---
+
+### Figure 1.2.2: Example of Navigation Barriers
+
+A screenshot of the **Malaysian Bar** official website, specifically the section containing information about **Yayasan Bantuan Guaman Kebangsaan (YBGK)**, highlights issues with how information is organized and how users are guided.
+
+For example:
+- Two labels with the text **"About YBGK"** are displayed on the page.
+- One appears near the top in a yellow, bordered box, making it look like a main clickable button. However, this button is **non-functional**.
+- The actual working link is located farther down the page, with plain formatting—making it much less noticeable.
+
+This type of **misleading layout** appears multiple times on the website. It can:
+
+- Confuse users, especially first-time visitors.
+- Waste users' time by leading them to click on the wrong elements.
+- Make it harder to find critical information.
+
+Such poor interface design negatively impacts usability aspects like **clarity** and **efficiency**, and may discourage users from seeking legal help.
+
 ### 1.3 Problem 2: Non-Mobile-Friendly, Outdated Interfaces
 
 In the digital age, **mobile accessibility is essential**—especially for young users, marginalized communities, and immigrants who often rely on smartphones as their primary or only means of accessing the internet. However, many official legal aid or reporting websites in Malaysia remain outdated, difficult to navigate on mobile devices, and not optimized for intuitive use.
