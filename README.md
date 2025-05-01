@@ -61,7 +61,7 @@ The ‘5’ stands for **us**, and our united power as a team.
 
 ---
 
-#---
+
 
 ## Our First Project — JustiLink
 
@@ -81,7 +81,7 @@ This project supports **SDG 16: Peace, Justice and Strong Institutions**, aiming
 **Target Users:**  
 - Youths and students  
 - Migrants and foreign workers  
-- NGOs offering legal support
+- Low income families
 
 → Explore our vision in the [Project Proposal](Proposal.md)
 
