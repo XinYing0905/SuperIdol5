@@ -33,6 +33,7 @@ A lack of **responsive, mobile-friendly design** effectively excludes the very c
     </td>
   </tr>
 </table>
+<br>Source: <a href="[https://aplikasi.jbg.gov.my/myjanjitemu/index.php#features](https://www.malaysianbar.org.my/)"> <br>
 
 > ⚠️ The **JBG website** is clearly optimized for full-screen desktop viewing. However, when accessed in smaller windows or on mobile devices, it shows significant issues:
 > - Images fail to resize properly  
