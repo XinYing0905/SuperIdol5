@@ -71,10 +71,9 @@ The ‘5’ stands for **us**, and our united power as a team.
 
 **JustiLink** solves that by offering:
 
-- A clean, mobile-first app and website
-- Personalized legal service directories by issue (bullying, landlord disputes, immigration, etc.)
-- Easy-to-understand guides with visuals, videos, and multilingual support
-- An "anonymous first chat" option to reduce fear and make help feel more accessible
+- Simplified Legal Content 
+- Mobile-First, User-Centered Interface
+- Anonymous First Chat Feature
 
 This project supports **SDG 16: Peace, Justice and Strong Institutions**, aiming to make justice approachable and inclusive.
 
