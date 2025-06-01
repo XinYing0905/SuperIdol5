@@ -73,6 +73,8 @@ This task analysis aims to understand how users currently find legal support thr
 
 ![Migrant Construction Worker Task 1](Photos/Persona2task1.png)
 
+
+
 ---
 
 ## Office Worker
@@ -108,85 +110,227 @@ This task analysis aims to understand how users currently find legal support thr
 
 **Diagram Presentation**
 
-![Office Worker Task 1](Photos/hta task 1 persona 3.drawio (4).png)
+![Office Worker Task 1](Photos/task1persona3)
 
-
-
-# Task 2: Anonymous First Chat Feature
-
-## High School Student
-0. Looking for anonymous legal advice  
- 1. Search online  
-  1.1 Read legal websites  
-  1.2 Still confused  
-  1.3 Look for anonymous advice  
- 2. Check NGO/legal aid sites  
-  2.1 Find contact page  
-  2.2 See “chat with us”  
-  2.3 See personal info required  
-   2.3.1 Decide not to proceed  
-   2.3.2 Worry about exposure  
- 3. Try forums (Reddit/Quora)  
-  3.1 Post anonymous question  
-  3.2 Read replies  
-  3.3 Still feel unsure  
-   3.3.1 Save links/screenshots  
- 4. Exit browser  
-  4.1 Clear history  
-  4.2 Close all tabs  
-
-## Office Worker
-0. Searching about medical claims  
- 1. Open social media  
-  1.1 Search legal forums/groups  
-  1.2 Scroll recent posts  
- 2. Try to ask  
-  2.1 Start typing question  
- 3. Feel unsure  
-  3.1 Worry about job risk  
-  3.2 Delete draft  
-  3.3 Feel hopeless  
- 4. Give up  
-  4.1 Close laptop  
+Findings from the HTAs for Task 1
+1. Technical Challenges
+-Many users face delays due to slow website performance on basic devices.
+-Navigation elements often malfunction or fail to respond properly.
+-Visual obstructions and layout glitches make it hard to read or interact.
+-Device performance issues like overheating or rapid battery drain cut sessions short.
+2. User Experience Problems
+-Interfaces are poorly adjusted for small screen sizes.
+-Disorganized design and dense text reduce readability.
+-Users often cannot find or reach the legal information they’re looking for.
+3. Emotional and Behavioral Reactions
+-Confusion and irritation arise from unclear content and tool limitations.
+-Users frequently abandon the process before reaching a solution.
+-Negative experiences reduce trust and motivation to seek help again.
+4. Barriers to Access
+Legal resources do not cater to low-spec devices or unstable internet connections.
+Many people are excluded from accessing their rights due to digital limitations.
+5. Recommendations
+-Create fast, efficient platforms that work well on all types of mobile devices.
+-Use clear structure, responsive design, and simplified features.
+-Present content in plain language and ensure intuitive navigation for everyone.
 
 ---
 
-# Task 3: Mobile-First, User-Centered Interface
 
-## Migrant Construction Worker
-0. Find legal help via mobile  
- 1. Use phone to search  
-  1.1 Open browser  
-  1.2 Enter search keywords  
- 2. Load site  
-  2.1 Wait for page  
-  2.2 Site too slow  
-   2.2.1 Try refreshing  
-   2.2.2 Wait again  
-   2.2.3 Give up  
- 3. Try to interact  
-  3.1 Buttons not responsive  
-  3.2 Font too small  
 
-## Office Worker
-0. Access legal help on budget phone  
+# Hierarchical Task Analysis (HTA)
+
+## Task 2: Seeking Anonymous Legal Advice
+
+### High School Student
+
+**Textual Presentation**
+
+0. Looking for anonymous legal advice about bullying  
+ 1. Search for legal information online  
+  1.1 Use browser to search the keywords  
+  1.2 Scroll through results and select a relevant site  
+  1.3 Try to read legal content  
+ 2. Look for platforms to ask legal questions anonymously  
+  2.1 Search again with new keywords  
+  2.2 Find NGOs or legal aid websites  
+  2.3 Check for live chat or email options  
+   2.3.1 Realize they often require personal information  
+   2.3.2 Decide not to proceed due to privacy concerns  
+ 3. Try alternative forums for anonymous help  
+  3.1 Visit online communities such as Reddit and Quora  
+  3.2 Post a legal question anonymously  
+  3.3 Read replies from users  
+   3.3.1 Evaluate reliability of the answers  
+ 4. Conclude search with unresolved questions  
+  4.1 Save links or screenshots of relevant parts  
+  4.2 Exit browser with unsure what to do next feeling  
+
+**Plans**
+
+- Plan 0: Do 1 → 2 → 3 → 4  
+- Plan 1: Do 1.1 → 1.2 → 1.3  
+- Plan 2: Do 2.1 → 2.2 → 2.3  
+- Plan 2.3: Do 2.3.1 → 2.3.2  
+- Plan 3: Do 3.1 → 3.2 → 3.3  
+- Plan 3.3: Do 3.3.1  
+- Plan 4: Do 4.1 → 4.2  
+
+**Diagram Presentation**  
+`![HTA Task 2 - High School Student](path/to/highschool_task2.png)`
+
+---
+
+### Office Worker
+
+**Textual Presentation**
+
+0. In order to know rights on medical claims  
+ 1. Looking for social media platform to seek help  
+  1.1 Open a social media app (e.g., Facebook, Threads, Twitter)  
+  1.2 Search for groups/forums related to labor rights or medical claims  
+ 2. Scrolling through social media  
+  2.1 Scroll through recent posts for similar cases  
+ 3. Trying to post  
+  3.1 Starts typing a question asking about claiming medical expenses after an injury at work  
+  3.2 Suddenly hesitates, worried about exposure and losing job  
+  3.3 Delete the draft post  
+ 4. Give up on asking on social media  
+  4.1 Closes the laptop  
+
+**Plans**
+
+- Plan 0: Do 1 → 2 → 3 → 4  
+- Plan 1: Do 1.1 → 1.2  
+- Plan 2: Do 2.1  
+- Plan 3: Do 3.1 → 3.2 → 3.3  
+- Plan 4: Do 4.1  
+
+**Diagram Presentation**  
+`![HTA Task 2 - Office Worker](path/to/officeworker_task2.png)`
+
+---
+
+### Findings from HTA Task 2
+
+**Attempts to Find Help**  
+- Searched social media platforms and forums  
+- Scrolled through posts but worried about exposure  
+- Started typing a question but hesitated to post  
+- Considered community resources, but information was unreliable  
+
+**Privacy Challenges**  
+- Many platforms require personal information  
+- Risk of being identified by employers and friends  
+- Even “anonymous” online spaces may have digital traces  
+
+**Emotional Impact**  
+- Users felt overwhelmed, worried, and frustrated  
+- Users eventually gave up on seeking help and felt unsupported  
+
+**Recommendations**  
+- Create a platform where users can seek legal advice anonymously  
+- Set up anonymous chatbots or helplines with instant responses  
+- Transition to more detailed help only after user consent  
+
+---
+
+## Task 3: Mobile-First, User-Centered Interface
+
+### Migrant Construction Worker
+
+**Textual Presentation**
+
+0. Find legal help online  
+ 1. Search for legal rights  
+  1.1 Use mobile phone to search for legal aid websites  
+  1.2 Click on a relevant legal aid website  
+ 2. Interact with the legal aid website  
+  2.1 Wait for the page to load  
+  2.2 Navigate the site  
+   2.2.1 Scroll through content  
+   2.2.2 Try to go to the next page  
+   2.2.3 Wait for delayed response  
+ 3. Give up on accessing legal aid  
+  3.1 Exit the website  
+  3.2 Put phone away  
+
+**Plans**
+
+- Plan 0: Do 1 → 2 → 3  
+- Plan 1: Do 1.1 → 1.2  
+- Plan 2: Do 2.1 → 2.2  
+- Plan 2.2: Do 2.2.1 → 2.2.2 → 2.2.3  
+- Plan 3: Do 3.1 → 3.2  
+
+**Diagram Presentation**  
+`![HTA Task 3 - Migrant Construction Worker](path/to/migrant_task3.png)`
+
+---
+
+### Office Worker
+
+**Textual Presentation**
+
+0. Access legal help on a budget smartphone  
  1. Connect to public Wi-Fi  
-  1.1 Turn on Wi-Fi  
-  1.2 Connect to available hotspot  
- 2. Search legal help  
-  2.1 Open browser  
-  2.2 Search “employee legal help Malaysia”  
-  2.3 Tap first result  
- 3. Interact with site  
-  3.1 Wait for page to load  
-  3.2 Scroll and zoom  
-  3.3 Buttons not working  
-  3.4 Pop-ups appear  
-  3.5 Close pop-ups  
- 4. Assess layout  
-  4.1 Layout too cluttered  
-  4.2 Hard to read  
-  4.3 Phone heats up  
- 5. Exit  
-  5.1 Close site  
-  5.2 Feel disappointed  
+  1.1 Turn on Wi-Fi on phone  
+  1.2 Select and connect to available public Wi-Fi  
+ 2. Search for employee legal help  
+  2.1 Open web browser  
+  2.2 Type “employee legal help Malaysia” in search bar  
+  2.3 Tap on a relevant search result  
+ 3. Interact with the legal website  
+  3.1 Wait for the website to load  
+  3.2 Notice lag and slow response  
+  3.3 Try to zoom or scroll (unsuccessfully)  
+  3.4 Attempt to tap buttons (some not working)  
+  3.5 Close or dismiss pop-up blocking content  
+ 4. Assess usability of the site  
+  4.1 Observe poor layout and cluttered design  
+  4.2 Get frustrated with navigation and readability  
+  4.3 Notice phone heating up and battery draining  
+ 5. Decide to continue or exit  
+  5.1 Decide to exit website to save battery and data  
+  5.2 Feel disappointed with the experience  
+
+**Plans**
+
+- Plan 0: Do 1 → 2 → 3 → 4 → 5  
+- Plan 1: Do 1.1 → 1.2  
+- Plan 2: Do 2.1 → 2.2 → 2.3  
+- Plan 3: Do 3.1 → 3.2 → 3.3 → 3.4 → 3.5  
+- Plan 4: Do 4.1 → 4.2 → 4.3  
+- Plan 5: Do 5.1 → 5.2  
+
+**Diagram Presentation**  
+`![HTA Task 3 - Office Worker](path/to/officeworker_task3.png)`
+
+---
+
+### Findings from HTA Task 3
+
+**1. Technical Barriers**  
+- Websites load slowly on low-end phones  
+- Buttons and navigation are unresponsive or buggy  
+- Pop-ups block content; users can't zoom or scroll properly  
+- Phones overheat or drain battery  
+
+**2. Usability Issues**  
+- Interfaces not optimized for mobile  
+- Layouts cluttered; text hard to read  
+- Users struggle to navigate content  
+
+**3. Emotional and Behavioral Impact**  
+- Users feel frustrated, confused, and disappointed  
+- Many give up without getting help  
+- Emotional stress discourages further attempts  
+
+**4. Accessibility Concerns**  
+- Legal websites unsuitable for users with basic phones or poor internet  
+- Digital inequality limits access to justice  
+
+**5. Recommendations**  
+- Design lightweight, mobile-friendly legal platforms  
+- Ensure fast loading, clean layout, working buttons  
+- Simplify navigation and content for all literacy levels  
