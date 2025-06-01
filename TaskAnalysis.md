@@ -23,12 +23,18 @@ Many legal aid sites do not focus on mobile use, causing slow load times, poor n
 ### HTA of Task 1 - Simplified Legal Content
 
 ### a) High School Student
+#### Video Link
+[Click here](https://youtu.be/ILNBJDyMGvQ)
 #### Textual Presentation
 #### Diagram Presentation
 ### b) Migrant Construction Worker
+#### Video Link
+[Click here](https://youtu.be/ze3URfK8-gc)
 #### Textual Presentation
 #### Diagram Presentation
 ### c) Office Worker
+#### Video Link
+[Click here](https://youtu.be/z7ZoFQaXzoE)
 #### Textual Presentation
 #### Diagram Presentation
 
@@ -74,9 +80,13 @@ Many people are excluded from accessing their rights due to digital limitations.
 ### HTA of Task 2 - Anonymous First Chat Feature
 
 ### a) High School Student
+#### Video Link
+[Click here](https://youtu.be/bUnu5TXB7f8)
 #### Textual Presentation
 #### Diagram Presentation
 ### b) Office Worker
+#### Video Link
+[Click here](https://youtu.be/EC4lPAE87so)
 #### Textual Presentation
 #### Diagram Presentation
 
@@ -113,9 +123,13 @@ Many people are excluded from accessing their rights due to digital limitations.
 ### HTA of Task 3 - Mobile-First, User-Centered Interface
 
 ### a) Migrant Construction Worker
+#### Video Link
+[Click here](https://youtu.be/vLjWIWD8-lY)
 #### Textual Presentation
 #### Diagram Presentation
 ### b) Office Worker
+#### Video Link
+[Click here](https://youtu.be/TZgNNm9A6pI)
 #### Textual Presentation
 #### Diagram Presentation
 
