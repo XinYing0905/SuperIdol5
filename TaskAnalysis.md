@@ -118,25 +118,25 @@ This task analysis aims to understand how users currently find legal support thr
 
 ### Findings from the HTAs for Task 1
 1. Technical Challenges<br>
--Many users face delays due to slow website performance on basic devices.<br>
--Navigation elements often malfunction or fail to respond properly.<br>
--Visual obstructions and layout glitches make it hard to read or interact.
+- Many users face delays due to slow website performance on basic devices.<br>
+- Navigation elements often malfunction or fail to respond properly.<br>
+- Visual obstructions and layout glitches make it hard to read or interact.
 
 2. Usability Issues<br>
--Interfaces are poorly adjusted for small screen sizes.<br>
--Disorganized design and dense text reduce readability.<br>
--Users often cannot find or reach the legal information they’re looking for.
+- Interfaces are poorly adjusted for small screen sizes.<br>
+- Disorganized design and dense text reduce readability.<br>
+- Users often cannot find or reach the legal information they’re looking for.
 3. Emotional & Behavioral Impact<br>
--Confusion and irritation arise from unclear content and tool limitations.<br>
--Users frequently abandon the process before reaching a solution.<br>
--Negative experiences reduce trust and motivation to seek help again.
+- Confusion and irritation arise from unclear content and tool limitations.<br>
+- Users frequently abandon the process before reaching a solution.<br>
+- Negative experiences reduce trust and motivation to seek help again.
 4.  Accessibility Concerns<br>
--Legal resources do not cater to low-spec devices or unstable internet connections.
+- Legal resources do not cater to low-spec devices or unstable internet connections.
 Many people are excluded from accessing their rights due to digital limitations.
 5. Recommendations<br>
--Create fast, efficient platforms that work well on all types of mobile devices.<br>
--Use clear structure, responsive design, and simplified features.<br>
--Present content in plain language and ensure intuitive navigation for everyone.
+- Create fast, efficient platforms that work well on all types of mobile devices.<br>
+- Use clear structure, responsive design, and simplified features.<br>
+- Present content in plain language and ensure intuitive navigation for everyone.
 
 ---
 
@@ -237,25 +237,25 @@ Many people are excluded from accessing their rights due to digital limitations.
 
 ### Findings from HTA Task 2
 
-**Technical Challenges**  
+**Technical Challenges**<br>  
 - Many platforms require personal information  
 - Even “anonymous” online spaces may have digital traces 
 - Risk of being identified by employers and friends
   
-**Usability Issues**  
+**Usability Issues**<br>  
 - Searched social media platforms and forums  
 - Scrolled through posts but worried about exposure  
 - Started typing a question but hesitated to post
 - Considered community resources, but information was unreliable  
 
-**Emotional & Behavioral Impact**  
+**Emotional & Behavioral Impact**<br>  
 - Users felt overwhelmed, worried, and frustrated  
 - Users eventually gave up on seeking help and felt unsupported
 
-  **Accessibility Concerns**
+  **Accessibility Concerns**<br>
 - Lack of trusted, private channels makes help inaccessible for people worried about privacy 
 
-**Recommendations**  
+**Recommendations**<br> 
 - Create a platform where users can seek legal advice anonymously  
 - Set up anonymous chatbots or helplines with instant responses  
 - Transition to more detailed help only after user consent  
