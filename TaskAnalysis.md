@@ -151,7 +151,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 
 ## 🔍 Differences
 
-| **Aspect**                    | **Joan(High School Student)**                                                                 | **Migrant Construction Worker**                                               | **Emma(Office Worker)**                                                          |
+| **Aspect**                    | **Joan(High School Student)**                                                                 | ** Rahim Uddin(Migrant Construction Worker)**                                               | **Emma(Office Worker)**                                                          |
 |------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | **Motivation/Context**       | Learning rights due to **personal bullying** experience.                                 | Needs to **sign a work contract** with unclear content.                       | Tries to **claim medical benefits** but fears consequences.                |
 | **Digital Literacy**         | High – uses browser, search terms, translation, and forums.                              | Moderate – uses translation tools but may not explore alternatives.           | Moderate – searches Google, attempts calling helpline.                     |
@@ -368,7 +368,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 - Simplify navigation and content for all literacy levels
 
 # 📊 HTA Comparison for Task 3
- | Aspect                               | Migrant Construction Worker                                                     | Office Worker                                                                              |
+ | Aspect                               |  Rahim Uddin(Migrant Construction Worker)                                                    | Emma(Office Worker)                                                                              |
 | ------------------------------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **Background & Motivation**          | Basic phone user with limited data; seeks legal rights information              | Budget smartphone user on public Wi-Fi; seeks employee legal help                          |
 | **Starting Point**                   | Searches “legal rights” via mobile browser                                      | Searches “employee legal help Malaysia” via browser                                        |
