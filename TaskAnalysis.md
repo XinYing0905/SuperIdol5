@@ -113,7 +113,7 @@ This task analysis aims to understand how users currently find legal support thr
 
 ![Office Worker Task 1](Photos/task1persona3)
 
-Findings from the HTAs for Task 1
+###Findings from the HTAs for Task 1
 1. Technical Challenges<br>
 -Many users face delays due to slow website performance on basic devices.<br>
 -Navigation elements often malfunction or fail to respond properly.<br>
@@ -137,7 +137,21 @@ Many people are excluded from accessing their rights due to digital limitations.
 
 ---
 
+# 📊 HTA Comparison for Task 1
 
+| *Aspect*                       | *High School Student*                                                                                                          | *Migrant Construction Worker*                                                                                                          | *Office Worker*                                                                                                                    |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| *Goal*                         | Understand Malaysian bullying laws.                                                                                              | Understand and respond to a bilingual work contract.                                                                                    | Understand rights on medical claims after a workplace injury.                                                                         |
+| *Starting Point*              | Opens browser and searches legal information.                                                                                   | Receives a work contract in English and Malay.                                                                                          | Attempts to find medical claim rights using Google.                                                                                   |
+| *Information Interpretation*   | Reads articles, uses Google Translate, struggles with legal jargon.                                                              | Tries to translate contract content using tools, but faces poor translation quality and ambiguity.                                      | Tries to interpret legal jargon online, but quickly becomes confused and frustrated.                                                  |
+| *Support-Seeking Behavior*     | Considers alternatives like searching for NGOs or support forums when confused.                                                  | Evaluates whether to seek help or proceed independently. Often lacks access to reliable legal support.                                 | Tries calling labor department helpline, but feels overwhelmed by long procedures and required documentation.                        |
+| *Emotional Response*           | Feels confused and unsure, but still tries alternative sources and considers further action.                                     | Feels unsure due to unclear translation and contract complexity. May proceed out of obligation or fear, despite lack of full clarity.  | Feels discouraged and frustrated; perceives the system as too complicated and gives up.                                               |
+| *Final Action*                | May continue exploring or save links for future reference, even if uncertain.                                                    | Often signs the contract due to obligation, despite limited understanding.                                                             | Gives up and leaves the issue unresolved due to procedural burden and emotional strain.                                               |
+| *Privacy/Power Dynamics*       | Limited concern—likely acts alone but may access forums anonymously.                                                             | May not know where or how to seek safe help; language and legal literacy barriers are critical.                                         | Concerned about job risk, fear of exposure, and losing employment benefits—strong emotional and social deterrents.                   |
+| *HTA Structure*               | Structured with attempts to interpret, translate, and search alternatives (Plan 3.3 → 3.3.1, 3.3.2 shows iterative deep search). | Multiple paths show progressive steps: translation → understanding → decision-making, but constrained by comprehension (Plan 2, 3, 4). | Demonstrates escalation but also abandonment (Plan 2.2.3 → 3.1 shows breakdown under bureaucracy).                                    |
+| *Decision-Making Outcome*      | Tentative, not resolved but exploratory.                                                                                         | Signs the contract—finalized despite uncertainty.                                                                                       | Ends the process prematurely without solution.                                                                                        |
+
+---
 
 # Hierarchical Task Analysis (HTA)
 
@@ -235,7 +249,15 @@ Many people are excluded from accessing their rights due to digital limitations.
 - Transition to more detailed help only after user consent  
 
 ---
-
+### Comparisons between HTAs of Different Personas
+| Aspect                              | Joan (High-School Student)                                                                                       | Emma (Office Worker)                                                                                                  |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Background and Motivation**        | Motivated by personal safety and justice due to bullying, seeks understanding of her rights, uses digital tools comfortably. | Motivated by financial and job security after a work injury, but fears exposure, job loss, and complex processes.       |
+| **Platforms and Paths Taken**        | Joan starts with browser searches, explores NGO sites, checks for live chats, and finally posts on forums like Reddit and Quora. | Emma uses social media platforms, tries posting but hesitates and deletes the post, then gives up.                      |
+| **Struggles with Privacy and Emotions** | Joan faces uncertainty and confusion when platforms require personal information but still tries alternative forums. | Emma’s privacy concern is stronger—she worries not only about being identified but also about risking her job. This leads her to stop sooner than Joan. |
+| **Emotional Journey and Final Outcome** | Feels hesitant but hopeful, continues searching, leaves with saved links, though her questions are unresolved.         | Feels overwhelmed, frustrated, and discouraged, and completely gives up without obtaining any useful information.        |
+| **Who Uses the Shortest Path to Reach a Decision?** | Emma takes the shortest route. She moves from seeking information to deciding not to post and closes her laptop. Her journey ends faster due to greater fear of exposure. | Joan takes a longer, more exploratory path, checking multiple online sources, trying to read content, and even saving links. Despite feeling hesitant, she does not completely abandon the task. |
+---
 ## Task 3: Mobile-First, User-Centered Interface
 [![Migrant Construction Worker Task 3 Video](https://img.youtube.com/vi/vLjWIWD8-lY/0.jpg)](https://youtu.be/vLjWIWD8-lY) <br>
 ### Migrant Construction Worker
