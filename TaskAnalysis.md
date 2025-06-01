@@ -1,4 +1,4 @@
-# User Analysis – Gathering Requirements
+# Gathering Requirements -  Task Analysis
 
 ## Introduction
 This task analysis aims to understand how users currently find legal support through existing methods before the development of JustiLink. Users always rely on government websites, translation tools or public forums, but these are not always accessible, user-friendly and privacy protected. Understanding the current limitations is very essential to designing a more effective legal supporting system.
