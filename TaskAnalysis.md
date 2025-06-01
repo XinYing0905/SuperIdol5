@@ -373,7 +373,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 - Ensure fast loading, clean layout, working buttons  
 - Simplify navigation and content for all literacy levels
 
-# Comparison for Task 3
+# Comparison of User Interactions in Task 3
  | Aspect                               |  Rahim Uddin(Migrant Construction Worker)                                                    | Emma(Office Worker)                                                                              |
 | ------------------------------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **Background & Motivation**          | Rahim Uddin uses basic phone user limited data to seek legal rights information              | Emma uses budget smartphone user on public Wi-Fi to seek employee legal help                          |
