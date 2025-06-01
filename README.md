@@ -83,6 +83,8 @@ This project supports **SDG 16: Peace, Justice and Strong Institutions**, aiming
 - Low income families
 
 → Explore our vision in the [Project Proposal](Proposal.md)
+→ Read our User Analysis report in the [User Analysis Report](UserAnalysis.md)
+→ Read our Task Analysis report in the [Task Analysis Report](TaskAnalysis.md)
 
 ---
 
