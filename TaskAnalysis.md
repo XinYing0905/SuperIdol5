@@ -426,7 +426,7 @@ Despite their differences, both users encountered challenges that led them to ab
 From these observations, it is clear that JustiLink should prioritize fast loading speeds, responsive design, and user-friendly navigation—especially on low-end devices. For users like the Migrant Construction Worker, the system must be straightforward and lightweight to prevent early drop-off. For more digitally literate users like the Office Worker, the design should still minimize distractions like pop-ups and broken buttons. These insights from HTA analysis help shape a legal aid platform that is inclusive, accessible, and effective for diverse users.
 
 
-## 📋Design Requirement
+## 📋Design Requirements
 
 The JustiLink system design needs to keep the things users are already familiar with: being able to search for legal information online, through websites, apps, or social media. These platforms help people start learning about their rights and get a sense of what steps they might need to take. But just keeping these isn’t enough. Many users, like Emma, face confusing and complicated systems that leave them feeling overwhelmed.
 
