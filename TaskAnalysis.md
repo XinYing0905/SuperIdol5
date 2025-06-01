@@ -377,8 +377,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 | **Interaction & Emotional Response** | Faces slow loading and confusing navigation; quickly frustrated and exits early | Encounters lag, unresponsive buttons, and pop-ups; frustrated but persists before quitting |
 | **Main Challenges**                  | Device limitations, low digital literacy, slow site performance                 | Poor UI design, lag, device overheating, and battery drain                                 |
 
-## Similarities
-
+### Similarities
 Both the migrant construction worker and the office worker tried to find legal help online by searching on their devices and visiting legal aid websites. Although they used different devices and had different levels of digital skills, they faced similar problems such as slow website loading, difficult navigation, and technical issues. These problems made both users feel frustrated and unhappy, which led them to stop using the websites before finishing their tasks. This shows that no matter what device or background the user has, online legal help platforms need to be easy to use, quick to load, and designed for people with different skills and devices. 
 
 ## 📋Design Requirement
