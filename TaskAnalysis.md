@@ -306,7 +306,8 @@ Many people are excluded from accessing their rights due to digital limitations.
 
 **Diagram Presentation**  
 
-![Find legal help flowchart](https://i.imgur.com/UeRZrOd.png)
+![Task 3b](https://github.com/XinYing0905/Super-Mafia/blob/main/Photos/Task3b.png?raw=true)
+
 
 
 ---
