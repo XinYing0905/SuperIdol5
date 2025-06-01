@@ -54,9 +54,9 @@ Rahim’s core motivation is to ***stay legally employed** and send money back t
   <img src="Photos/persona3.jpg" alt="Emma - Low-Income Worker" width="250"/>
 </p>
 
-Emma is a 23-year-old low-income office worker living in a low-cost housing area. She completed secondary school but couldn’t afford higher education. Despite being dedicated and hardworking, Emma has experienced several workplace injustices—like delayed payments and being forced to work while sick. She uses a basic smartphone and public Wi-Fi, making her heavily reliant on clear, fast-loading platforms that work well under constrained conditions.
+**Emma** is a **23-year-old low-income office worker** living in a low-cost housing area. She completed secondary school but couldn’t afford higher education. Despite being dedicated and hardworking, Emma has experienced several **workplace injustices**—like **delayed payments** and **being forced to work while sick**. She uses a **basic smartphone** and **public Wi-Fi**, making her heavily reliant on clear, fast-loading platforms that work well under constrained conditions.
 
-Emma wants to stand up for herself and others like her but is afraid of losing her job or being targeted for speaking out. She’s tried using legal websites, but the content is too technical, and she often gives up. **JustiLink** offers her a sense of empowerment through its plain-language responses, anonymous chat, and ease of access. She feels validated and informed when she uses the platform—finally able to understand her rights without putting herself at risk.
+Emma wants to **stand up for herself** and others like her but is **afraid of** losing her job or being targeted for **speaking out**. She’s tried using legal websites, but the content is **too technical**, and she often gives up. **JustiLink** offers her a sense of empowerment through its **plain-language responses**, **anonymous chat**, and **ease of access**. She feels validated and informed when she uses the platform—finally able to understand her rights without putting herself at risk.
 
 ---
 # 📘 Scenario
@@ -98,17 +98,15 @@ After repeated delays and interruptions, Rahim becomes visibly frustrated and ev
 ## 💼 Persona: Emma – Low-Income Office Worker  
 ### 🧩 Task 1: Simplified Legal Content
 
-Emma injured her hand after doing excessive work and had to visit a clinic for treatment, which resulted in high medical costs. At home, she opened her laptop to search for information about employer medical claims. After browsing for several minutes, she became overwhelmed by the complex legal jargon and technical terms that she couldn’t understand. Seeking clearer answers, Emma decided to call the labour department helpline for more direct assistance.
-
-Unfortunately, she was told that she would need to provide numerous certified documents to complete the claim process, which sounded complicated and intimidating for someone without legal knowledge. Feeling frustrated and discouraged by the complex procedures, Emma gave up on pursuing her medical claim altogether.
+Emma, a part-time retail worker, injured her hand after being assigned repetitive tasks without sufficient breaks. Seeking help for the high cost of her clinic treatment, she opened her laptop and searched for information about employer medical claims. She found several official sites but was quickly overwhelmed by the complicated legal language and technical terms. Despite spending time trying to understand the content, she still wasn’t sure whether her situation qualified for a claim or how to begin the process.
+Hoping to get more direct answers, Emma called the labour department’s helpline. But instead of guidance, she was told she needed multiple certified documents to proceed—without any clear explanation of what they were or how to get them. Feeling confused and intimidated, especially without any legal background, Emma gave up. This scenario highlights the need for clear, accessible legal content and simplified claim instructions—delivered in plain language with visual guides and practical examples to help non-experts like Emma take action with confidence.
 
 ---
 
 ### 💬 Task 2: Anonymous First Chat Feature
 
-Emma’s boss has treated her unfairly at work, and she often feels the need to share her experiences and seek advice on what to do next. One day, she opens a popular social media platform and begins typing her thoughts and frustrations. However, shortly after, she starts deleting her posts out of fear—worried that her boss or colleagues might see what she wrote, which could jeopardize her job security.
-
-Feeling isolated and unable to express herself, Emma shuts down her device, leaving her worries bottled up with no outlet for support or guidance. This scenario highlights the need for a secure, anonymous platform where Emma can safely ask for advice without risking her privacy or employment.
+Emma has been experiencing unfair treatment from her boss at work, including being assigned the least desirable shifts and receiving harsh criticism without reason. These incidents have left her feeling anxious and unsure about her rights. Wanting to speak up and find out what she can do, Emma turns to a popular social media platform to express her thoughts and seek advice from others. She begins typing a post about her situation, hoping someone might understand or point her in the right direction.
+However, as she re-reads what she’s written, a wave of doubt sets in. She worries that her post might be seen by coworkers—or worse, her employer—and fears it could cost her the job she depends on. Out of fear, she deletes the post and decides not to share anything at all. Emma closes her device, feeling isolated and helpless, with no safe space to talk about what’s happening. This scenario reflects the urgent need for an anonymous first chat feature, where workers like Emma can privately ask questions, seek support, and get the guidance they need without the fear of being identified or judged.
 
 ---
 
