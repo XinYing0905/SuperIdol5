@@ -381,7 +381,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 
 Both the migrant construction worker and the office worker tried to find legal help online by searching on their devices and visiting legal aid websites. Although they used different devices and had different levels of digital skills, they faced similar problems such as slow website loading, difficult navigation, and technical issues. These problems made both users feel frustrated and unhappy, which led them to stop using the websites before finishing their tasks. This shows that no matter what device or background the user has, online legal help platforms need to be easy to use, quick to load, and designed for people with different skills and devices. 
 
-## Design Requirement
+## 📋Design Requirement
 
 The JustiLink system design needs to keep the things users are already familiar with: being able to search for legal information online, through websites, apps, or social media. These platforms help people start learning about their rights and get a sense of what steps they might need to take. But just keeping these isn’t enough. Many users, like Emma, face confusing and complicated systems that leave them feeling overwhelmed.
 
