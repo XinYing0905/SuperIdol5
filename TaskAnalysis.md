@@ -237,20 +237,23 @@ Many people are excluded from accessing their rights due to digital limitations.
 
 ### Findings from HTA Task 2
 
-**Attempts to Find Help**  
+**Technical Challenges**  
+- Many platforms require personal information  
+- Even “anonymous” online spaces may have digital traces 
+- Risk of being identified by employers and friends
+  
+**Usability Issues**  
 - Searched social media platforms and forums  
 - Scrolled through posts but worried about exposure  
-- Started typing a question but hesitated to post  
+- Started typing a question but hesitated to post
 - Considered community resources, but information was unreliable  
 
-**Privacy Challenges**  
-- Many platforms require personal information  
-- Risk of being identified by employers and friends  
-- Even “anonymous” online spaces may have digital traces  
-
-**Emotional Impact**  
+**Emotional & Behavioral Impact**  
 - Users felt overwhelmed, worried, and frustrated  
-- Users eventually gave up on seeking help and felt unsupported  
+- Users eventually gave up on seeking help and felt unsupported
+
+  **Accessibility Concerns**
+- Lack of trusted, private channels makes help inaccessible for people worried about privacy 
 
 **Recommendations**  
 - Create a platform where users can seek legal advice anonymously  
