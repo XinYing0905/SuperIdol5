@@ -39,7 +39,7 @@ This task analysis aims to understand how users currently find legal support thr
 
 **Diagram Presentation**
 
-![High School Student Task 1](Photos/persona1Task1.drawio.png)
+![High School Student Task 1](Photos/persona1Task1.drawio.png)<br>
 Figure1: HTA of Joan performing Task 1 before without using JustiLink
 
 ---
@@ -75,7 +75,7 @@ Figure1: HTA of Joan performing Task 1 before without using JustiLink
 
 **Diagram Presentation**
 
-![Migrant Construction Worker Task 1](Photos/Persona2task1.png)
+![Migrant Construction Worker Task 1](Photos/Persona2task1.png)<br>
 Figure2: HTA of Rahim Uddin performing Task 1 before without using JustiLink
 
 
@@ -116,7 +116,7 @@ Figure2: HTA of Rahim Uddin performing Task 1 before without using JustiLink
 
 **Diagram Presentation**
 
-![Office Worker Task 1](Photos/task1persona3)
+![Office Worker Task 1](Photos/task1persona3)<br>
 Figure3: HTA of Rahim Uddin performing Task 1 before without using JustiLink
 
 ### Findings from the HTAs for Task 1
@@ -209,7 +209,7 @@ From these HTA comparisons, JustiLink should focus on simplifying legal content 
 - Plan 4: Do 4.1 → 4.2  
 
 **Diagram Presentation**  
-![HTA Task 2 - High School Student](Photos/Persona2Task2.drawio.png)
+![HTA Task 2 - High School Student](Photos/Persona2Task2.drawio.png)<br>
 Figure4: HTA of Joan performing Task 2 before without using JustiLink
 
 ---
@@ -241,7 +241,7 @@ Figure4: HTA of Joan performing Task 2 before without using JustiLink
 - Plan 4: Do 4.1  
 
 **Diagram Presentation**  
-![HTA Task 2 - Office Worker](Photos/persona3task2.png)
+![HTA Task 2 - Office Worker](Photos/persona3task2.png)<br>
 Figure5: HTA of Emma performing Task 2 before without using JustiLink
 
 ---
@@ -334,7 +334,7 @@ The comparison highlights the need for a private and safe legal aid solution. Ju
 
 **Diagram Presentation**  
 
-![Task 3a](https://github.com/XinYing0905/Super-Mafia/blob/main/Photos/Task3a.png?raw=true)
+![Task 3a](https://github.com/XinYing0905/Super-Mafia/blob/main/Photos/Task3a.png?raw=true)<br>
 Figure6: HTA of Radhim Uddin performing Task 3 before without using JustiLink
 
 ---
