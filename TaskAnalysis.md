@@ -129,14 +129,15 @@ Figure3: HTA of Rahim Uddin performing Task 1 before without using JustiLink
 - Interfaces are poorly adjusted for small screen sizes.<br>
 - Disorganized design and dense text reduce readability.<br>
 - Users often cannot find or reach the legal information they’re looking for.
-- 
+
 3. **Emotional & Behavioral Impact**<br>
 - Confusion and irritation arise from unclear content and tool limitations.<br>
 - Users frequently abandon the process before reaching a solution.<br>
 - Negative experiences reduce trust and motivation to seek help again.
+
 4.  **Accessibility Concerns**<br>
-- Legal resources do not cater to low-spec devices or unstable internet connections.
-Many people are excluded from accessing their rights due to digital limitations.
+- Legal resources do not cater to low-spec devices or unstable internet connections.Many people are excluded from accessing their rights due to digital limitations.
+  
 5. **Recommendations**<br>
 - Create fast, efficient platforms that work well on all types of mobile devices.<br>
 - Use clear structure, responsive design, and simplified features.<br>
