@@ -415,12 +415,12 @@ Both the migrant construction worker and the office worker tried to find legal h
 
 # 📊 HTA Comparison for Task 3 and Discussion
 
-Task 3 involved two personas: the Migrant Construction Worker and the Office Worker, both attempting to find legal help through their mobile devices. Although they shared the same goal, their experiences differed due to factors such as digital literacy, device limitations, and interface usability.
+Task 3 involved two personas: the Rahim Uddin,a migrant construction worker and Emma,the office worker, both attempting to find legal help through their mobile devices. Although they shared the same goal, their experiences differed due to factors such as digital literacy, device limitations, and interface usability.
 ### Differences
 
-The Migrant Construction Worker searched for legal rights using his mobile phone and tried to access a legal aid website. According to his HTA, he navigated the site briefly but gave up after experiencing slow page loading and difficulty scrolling (HTA step 2.2.3 → 3.1). This shows that he may have limited experience with online platforms and quickly disengages when the interface is not responsive.
+Rahim Uddin searched for legal rights using his mobile phone and tried to access a legal aid website. According to his HTA, he navigated the site briefly but gave up after experiencing slow page loading and difficulty scrolling (HTA step 2.2.3 → 3.1). This shows that he may have limited experience with online platforms and quickly disengages when the interface is not responsive.
 
-In contrast, the Office Worker demonstrated more digital confidence. She first connected to public Wi-Fi before searching for employee legal help (HTA step 1 → 2). Although she encountered various interface issues such as pop-up interruptions and unresponsive buttons (step 3.4 → 3.5), she still made several attempts to interact with the content before exiting. This indicates that she was more persistent but still hindered by poor design and usability on her budget smartphone.
+In contrast, Emma demonstrated more digital confidence. She first connected to public Wi-Fi before searching for employee legal help (HTA step 1 → 2). Although she encountered various interface issues such as pop-up interruptions and unresponsive buttons (step 3.4 → 3.5), she still made several attempts to interact with the content before exiting. This indicates that she was more persistent but still hindered by poor design and usability on her budget smartphone.
 
 ### Similarities
 
