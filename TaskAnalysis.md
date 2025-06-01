@@ -10,7 +10,7 @@ This task analysis aims to understand how users currently find legal support thr
  
 ## High School Student
 [![High School Student Video](https://img.youtube.com/vi/ILNBJDyMGvQ/0.jpg)](https://youtu.be/ILNBJDyMGvQ)<br>
-*click to watch the video* <br>
+*click here to watch the video👆* <br>
 
 **Textual Presentation**<br>
 
@@ -45,7 +45,7 @@ This task analysis aims to understand how users currently find legal support thr
 
 ## Migrant Construction Worker
 [![Migrant Construction Worker Video](https://img.youtube.com/vi/ze3URfK8-gc/0.jpg)](https://youtu.be/ze3URfK8-gc)<br>
-*click to watch the video* <br>
+*click here to watch the video👆*<br>
 **Textual Presentation**<br>
 
 0. Sign a work contract  
@@ -82,7 +82,7 @@ This task analysis aims to understand how users currently find legal support thr
 
 ## Office Worker
 [![Office Worker Video](https://img.youtube.com/vi/z7ZoFQaXzoE/0.jpg)](https://youtu.be/z7ZoFQaXzoE) <br>
-*click to watch the video* <br>
+*click here to watch the video👆*<br>
 **Textual Presentation** <br>
 
 0. Know rights on medical claims  
@@ -170,7 +170,7 @@ From these HTA comparisons, JustiLink should focus on simplifying legal content 
 
 # Task 2: Seeking Anonymous Legal Advice
 [![High School Student Task 2 Video](https://img.youtube.com/vi/bUnu5TXB7f8/0.jpg)](https://youtu.be/bUnu5TXB7f8) <br>
-*click to watch the video* <br>
+*click here to watch the video👆*<br>
 ### High School Student
 
 **Textual Presentation**
@@ -212,7 +212,7 @@ From these HTA comparisons, JustiLink should focus on simplifying legal content 
 
 ### Office Worker
 [![Office Worker Task 2 Video](https://img.youtube.com/vi/EC4lPAE87so/0.jpg)](https://youtu.be/EC4lPAE87so) <br>
-*click to watch the video* <br>
+*click here to watch the video👆*<br>
 **Textual Presentation**
 
 0. In order to know rights on medical claims  
@@ -300,7 +300,7 @@ The comparison highlights the need for a private and safe legal aid solution. Ju
 ---
 ## Task 3: Mobile-First, User-Centered Interface
 [![Migrant Construction Worker Task 3 Video](https://img.youtube.com/vi/vLjWIWD8-lY/0.jpg)](https://youtu.be/vLjWIWD8-lY) <br>
-*click to watch the video* <br>
+*click here to watch the video👆*<br>
 ### Migrant Construction Worker
 
 **Textual Presentation**
@@ -335,7 +335,7 @@ The comparison highlights the need for a private and safe legal aid solution. Ju
 
 ### Office Worker
 [![Office Worker Task 3 Video](https://img.youtube.com/vi/TZgNNm9A6pI/0.jpg)](https://youtu.be/TZgNNm9A6pI) <br>
-*click to watch the video* <br>
+*click here to watch the video👆*<br>
 **Textual Presentation**
 
 0. Access legal help on a budget smartphone  
