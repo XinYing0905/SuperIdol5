@@ -141,13 +141,13 @@ Many people are excluded from accessing their rights due to digital limitations.
 
 ---
 
-# Comparison of User Interactions in Task 1
-## ✅ Similarities
+## Comparison of User Interactions in Task 1
+### ✅ Similarities
 All three users shared similar goals in Task 1, as they were trying to understand their rights or obligations related to legal or official matters. They all attempted to obtain information using digital platforms such as web searches, translation tools, or online help services. However, each of them encountered barriers when trying to comprehend the formal or legal content, which often contained complex or unfamiliar language. This difficulty caused confusion, uncertainty, and frustration during their search process. Additionally, all users expressed concerns about their privacy and feared exposure, whether due to embarrassment, potential job risks, or the requirement to enter personal data.
 
 ---
 
-## 🔍 Differences
+### 🔍 Differences
 
 | **Aspect**                    | **Joan(High School Student)**                                                                 | ** Rahim Uddin(Migrant Construction Worker)**                                               | **Emma(Office Worker)**                                                          |
 |------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
@@ -156,7 +156,7 @@ All three users shared similar goals in Task 1, as they were trying to understan
 | **Language Barrier**         | Faces legal jargon, overcomes it with Google Translate and forums.                       | Major barrier – contract is in English/Malay, translation is poor.            | Struggles with legal terms but can read and understand to a basic extent.  |
 | **Support-Seeking Behavior** | Proactively searches for forums, NGOs, alternative sources.                              | May avoid help due to fear, uncertainty, or lack of access.                   | Attempts to seek help (calls helpline), but finds it too complex.          |
 
-# 📊 HTA Comparison for Task 3 and Discussion
+## 📊 HTA Comparison for Task 1 and Discussion
 Task 1 involved two personas—Joan, a university student, and Emma, an office worker—who both attempted to access legal information online, specifically regarding bullying laws and employee legal rights. Although both users aimed to understand their legal standing, their HTA steps reveal different user experiences and challenges.
 
 ### Differences
