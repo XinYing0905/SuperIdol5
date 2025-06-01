@@ -6,7 +6,7 @@ This task analysis aims to understand how users currently find legal support thr
 
 ---
 
-# Task 1: Understand Legal Content in Simple Language
+# Task 1: Simplified Legal Content
  
 ## High School Student
 [![High School Student Video](https://img.youtube.com/vi/ILNBJDyMGvQ/0.jpg)](https://youtu.be/ILNBJDyMGvQ)<br>
