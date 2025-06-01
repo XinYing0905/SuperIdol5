@@ -158,15 +158,17 @@ Figure3: HTA of Rahim Uddin performing Task 1 before without using JustiLink
 All three users shared similar goals in Task 1, as they were trying to understand their rights or obligations related to legal or official matters. They all attempted to obtain information using digital platforms such as web searches, translation tools, or online help services. However, each of them encountered barriers when trying to comprehend the formal or legal content, which often contained complex or unfamiliar language. This difficulty caused confusion, uncertainty, and frustration during their search process. Additionally, all users expressed concerns about their privacy and feared exposure, whether due to embarrassment, potential job risks, or the requirement to enter personal data.
 
 ## 📊 HTA Comparison for Task 1 and Discussion
-There are 2 personas involved in Task 1(Simplified the legal content) which are Joan(a high school student) and Emma(an office worker). Both of them tried to access legal information online regarding bullying laws and employee legal rights. However, they face some challenges when they are trying to understand their legal standing. The HTA above reveals the different user experiences and challenges.
+There are 3 personas involved in Task 1(Simplified the legal content) which are Joan(a high school student), Rahim Uddin(a migrant construction worker) and Emma(an office worker). Three of them tried to access legal information online regarding bullying laws, worker contract and employee legal rights. However, they face some challenges such as language barriers and complexity of legal jargon content when they are trying to understand their legal standing. The HTA above reveals the different user experiences and challenges.
 
 ### Differences
 Joan began her task by searching for “bullying law in Malaysia” and browsed through various websites (HTA 2.1 → 2.2). She clicked on a relevant article and attempted to read it, but struggled with legal jargon (3.3.2), eventually feeling unsure and overwhelmed (4.2). This reflects her limited familiarity with legal content and her dependence on search results to guide her.
 
+Rahim Uddin, a foreign worker, dealt with legal content in a different context—signing a bilingual work contract. He used a translation tool to try understanding the terms (HTA 2.1–2.3), but the poor translation and awkward sentence structure left him feeling unsure (HTA 3.1–3.2). Despite his uncertainty, he eventually signed the contract (HTA 4.1), showing how language and translation issues can force users into making uninformed decisions.
+
 In contrast, Emma approached the task by searching for employment-related information about medical claims. She also encountered complicated legal language (HTA 1.2.1–1.2.3) and later tried contacting the labour department (HTA 2). However, the long process, need for documents, and perceived complexity discouraged her (HTA 2.2.3.1), causing her to give up as well.
 
 ### Similarities
-Both Joan and Emma began their journeys by independently searching online, showing initiative in trying to understand their rights. However, they both struggled to process the legal information they found—Joan due to the complexity of the language, and Emma because of unclear steps and platform usability issues. In both cases, the users were unable to complete their tasks successfully and exited the experience feeling uncertain, frustrated, or discouraged. This demonstrates that current legal information systems are not effectively designed to accommodate users from different backgrounds, reinforcing the need for clearer content, emotional support, and improved information structure.
+All three users tried to understand legal information independently—whether by reading articles, using online tools, or contacting authorities. They each struggled with unclear, overly complex content. Joan was confused by legal terms, Emma was overwhelmed by the process and platform issues, and Rahim couldn’t fully understand the translated contract. In the end, none of them completed their task with confidence or clarity. This shows that current legal content formats fail to serve users with different digital literacy levels, language proficiencies, and legal knowledge.
 
 ### Design Implications
 Based on the HTA findings, we identify both improvements to be made and features worth retaining.
@@ -175,6 +177,8 @@ Improvement needed:
 - Simplify legal content using plain language and clear visual structure.
 
 - Optimize the platform for mobile devices to ensure fast loading times and minimal interruptions.
+  
+- Improve multilingual support and ensure accurate, culturally relevant translations.
 
 Features to keep:
 
