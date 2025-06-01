@@ -265,7 +265,8 @@ From these HTA comparisons, JustiLink should focus on simplifying legal content 
 - Transition to more detailed help only after user consent  
 
 ---
-# 📊 HTA Comparison for Task 2
+
+## Comparison of User Interactions in Task 2
 | Aspect                              | Joan (High-School Student)                                                                                       | Emma (Office Worker)                                                                                                  |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | **Background and Motivation**        | Motivated by personal safety and justice due to bullying, seeks understanding of her rights, uses digital tools comfortably. | Motivated by financial and job security after a work injury, but fears exposure, job loss, and complex processes.       |
