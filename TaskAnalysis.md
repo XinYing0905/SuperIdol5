@@ -265,8 +265,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 
 **Diagram Presentation**  
 
-![pics]([https://i.imgur.com/NQ4mDHP.png](https://drive.google.com/file/d/1DGADz2BokoqdW_YYTNhfJZ7pufAvGinN/view?usp=sharing))
-`
+![pics](https://ibb.co/ycqcFK1T)
 
 ---
 
