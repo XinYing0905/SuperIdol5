@@ -118,7 +118,7 @@ Findings from the HTAs for Task 1
 -Many users face delays due to slow website performance on basic devices.
 -Navigation elements often malfunction or fail to respond properly.
 -Visual obstructions and layout glitches make it hard to read or interact.
--Device performance issues like overheating or rapid battery drain cut sessions short.
+
 2. User Experience Problems
 -Interfaces are poorly adjusted for small screen sizes.
 -Disorganized design and dense text reduce readability.
