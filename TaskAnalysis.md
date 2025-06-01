@@ -122,15 +122,15 @@ This task analysis aims to understand how users currently find legal support thr
 -Navigation elements often malfunction or fail to respond properly.<br>
 -Visual obstructions and layout glitches make it hard to read or interact.
 
-2. User Experience Problems<br>
+2. Usability Issues<br>
 -Interfaces are poorly adjusted for small screen sizes.<br>
 -Disorganized design and dense text reduce readability.<br>
 -Users often cannot find or reach the legal information they’re looking for.
-3. Emotional and Behavioral Reactions<br>
+3. Emotional & Behavioral Impact<br>
 -Confusion and irritation arise from unclear content and tool limitations.<br>
 -Users frequently abandon the process before reaching a solution.<br>
 -Negative experiences reduce trust and motivation to seek help again.
-4. Barriers to Access<br>
+4.  Accessibility Concerns<br>
 Legal resources do not cater to low-spec devices or unstable internet connections.
 Many people are excluded from accessing their rights due to digital limitations.
 5. Recommendations<br>
