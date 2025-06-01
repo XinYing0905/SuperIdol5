@@ -59,6 +59,64 @@ Emma is a 23-year-old low-income office worker living in a low-cost housing area
 Emma wants to stand up for herself and others like her but is afraid of losing her job or being targeted for speaking out. She’s tried using legal websites, but the content is too technical, and she often gives up. **JustiLink** offers her a sense of empowerment through its plain-language responses, anonymous chat, and ease of access. She feels validated and informed when she uses the platform—finally able to understand her rights without putting herself at risk.
 
 ---
+# 📘 Scenario
+
+## 👩 Persona: Joan – High School Student  
+### 🧩 Task 1: Simplified Legal Content
+
+Joan is a secondary school student dealing with bullying. While teachers encourage students to “report it,” Joan isn’t sure what that actually means—or what her rights are in such situations. She goes online and searches for information about bullying laws, hoping to find something helpful. But the websites she visits are filled with long explanations and formal legal terms that are difficult to understand. She tries using an online translation tool to simplify the content, but the results are confusing and often don’t make sense.
+
+Feeling overwhelmed and discouraged, Joan still doesn’t know whether her situation is protected under the law or how to report it properly. Although the information exists, it’s not written in a way that someone her age can easily grasp. This scenario highlights the need for legal information to be rewritten in plain, student-friendly language—using clear explanations, visual guides, and relatable examples so young people like Joan can understand their rights and take action with confidence.
+
+---
+
+### 💬 Task 2: Anonymous First Chat Feature
+
+After reading legal content online, Joan still has personal questions about how her school is handling her bullying case. She wants to ask someone directly whether the school is following proper procedure—but she doesn’t feel ready to share her name or personal details. When she tries to get help through a legal aid website, the platform asks for her full name and identification number before she can even ask a question. Feeling exposed and anxious, she exits the page immediately.
+
+Joan considers using online forums or social media to ask anonymously, but she worries that her questions might be ignored, misinterpreted, or seen by people she knows. She wants a private way to reach out—without fear of being judged or identified. This scenario reflects the need for an anonymous first chat feature, where users can ask sensitive legal questions securely and without pressure. It allows people like Joan to seek the help they need without sacrificing their privacy or emotional safety.
+
+---
+
+## 👷 Persona: Rahim Uddin – Migrant Construction Worker  
+### 🧩 Task 1: Simplified Legal Content
+
+Rahim receives a new employment contract written entirely in English and Malay—languages he is not fluent in. Alone with the document, he flips through the pages with a puzzled expression, trying to make sense of unfamiliar legal terms. Unsure about important clauses such as termination rights, he mutters, “Can they fire me for no reason?” Hoping for clarity, he uses a translation app on his phone and scans parts of the contract. The results are awkward, filled with broken sentences and unclear meanings that only add to his confusion.
+
+With no one to clearly explain the contract and lacking confidence in the translation, Rahim hesitates. Still uncertain, he signs the document anyway, feeling uneasy about what he might have agreed to. This scenario highlights the struggle many users face when dealing with legal content that is not accessible in their native language. It emphasizes the need for legal information to be rewritten in plain, simple terms—supported by visuals and multilingual explanations—to ensure that every user can understand their rights before making important decisions.
+
+---
+
+### 📱 Task 3: Mobile-First, User-Centered Interface
+
+Rahim wants to understand his rights as a worker, so he turns to his phone to search for answers. He types a relevant phrase into a search engine and taps on a legal aid website. The page takes a long time to load, and when it finally appears, the interface is not suited for mobile use. The text is small, buttons are hard to press, and navigating the site feels frustrating. The content is presented in a slide-based format, but every time Rahim presses the “Next” button, the slide takes several seconds to appear, making it difficult to follow.
+
+After repeated delays and interruptions, Rahim becomes visibly frustrated and eventually puts his phone away without finding the information he needs. This scenario reflects the challenges many users face when accessing legal support from mobile devices. It demonstrates the need for a mobile-first platform with responsive design, quick loading times, and simple navigation that meets the needs of users who rely on their phones as their main source of digital access.
+
+---
+
+## 💼 Persona: Emma – Low-Income Office Worker  
+### 🧩 Task 1: Simplified Legal Content
+
+Emma injured her hand after doing excessive work and had to visit a clinic for treatment, which resulted in high medical costs. At home, she opened her laptop to search for information about employer medical claims. After browsing for several minutes, she became overwhelmed by the complex legal jargon and technical terms that she couldn’t understand. Seeking clearer answers, Emma decided to call the labour department helpline for more direct assistance.
+
+Unfortunately, she was told that she would need to provide numerous certified documents to complete the claim process, which sounded complicated and intimidating for someone without legal knowledge. Feeling frustrated and discouraged by the complex procedures, Emma gave up on pursuing her medical claim altogether.
+
+---
+
+### 💬 Task 2: Anonymous First Chat Feature
+
+Emma’s boss has treated her unfairly at work, and she often feels the need to share her experiences and seek advice on what to do next. One day, she opens a popular social media platform and begins typing her thoughts and frustrations. However, shortly after, she starts deleting her posts out of fear—worried that her boss or colleagues might see what she wrote, which could jeopardize her job security.
+
+Feeling isolated and unable to express herself, Emma shuts down her device, leaving her worries bottled up with no outlet for support or guidance. This scenario highlights the need for a secure, anonymous platform where Emma can safely ask for advice without risking her privacy or employment.
+
+---
+
+### 📱 Task 3: Mobile-First, User-Centered Interface
+
+Emma is a young office worker trying to find legal help after being unfairly asked to work even while taking sick leave from a doctor. She connects to free public Wi-Fi using her basic smartphone and searches for “employee legal help Malaysia.” A legal aid website appears in the search results, but when she taps the link, the page takes a long time to load. Once it opens, Emma struggles to read the dense text and navigate the cluttered layout. The site doesn’t allow zooming, some buttons don’t respond, and a persistent pop-up blocks part of the screen. As she scrolls, the phone starts to heat up, and the lag becomes unbearable.
+
+Frustrated and worried about battery life and data usage, Emma closes the website without getting the help she needed. She thinks, “Why does it need so much data just to load a page?” and gives up trying to use online legal platforms altogether. This scenario highlights the need for a mobile-first, user-centered interface that works well on low-end phones and slow internet connections. Legal websites should be lightweight, responsive, and easy to use—ensuring that people like Emma can access justice without being limited by their device or data plan.
 
 ---
 
