@@ -274,6 +274,24 @@ From these HTA comparisons, JustiLink should focus on simplifying legal content 
 | **Struggles with Privacy and Emotions** | Joan faces uncertainty and confusion when platforms require personal information but still tries alternative forums. | Emma’s privacy concern is stronger—she worries not only about being identified but also about risking her job. This leads her to stop sooner than Joan. |
 | **Emotional Journey and Final Outcome** | Feels hesitant but hopeful, continues searching, leaves with saved links, though her questions are unresolved.         | Feels overwhelmed, frustrated, and discouraged, and completely gives up without obtaining any useful information.        |
 | **Who Uses the Shortest Path to Reach a Decision?** | Emma takes the shortest route. She moves from seeking information to deciding not to post and closes her laptop. Her journey ends faster due to greater fear of exposure. | Joan takes a longer, more exploratory path, checking multiple online sources, trying to read content, and even saving links. Despite feeling hesitant, she does not completely abandon the task. |
+
+# 📊 HTA Comparison for Task 2 and Discussion
+
+Task 2 involved two personas: a high school student (Joan) and an office worker (Emma), both trying to seek anonymous legal advice online. Although they shared the same goal, their experiences and decision-making processes differed due to privacy concerns, digital habits, and emotional reactions.
+
+### Differences
+oan began her task by searching for legal help about bullying using a browser. According to her HTA, she explored various NGO websites, checked for chat or email options (HTA step 2.1 → 2.3), and later turned to online communities like Reddit or Quora (step 3.1 → 3.3). Although she encountered platforms that required personal information and felt uncertain, she continued exploring different methods. This shows her persistence and willingness to try informal sources even when the official ones were overwhelming.
+
+Emma, on the other hand, chose to start on social media platforms to learn about medical claims (HTA step 1.1 → 2.1). She typed a question asking for help (step 3.1), but after hesitating due to fear of being identified and risking her job, she deleted the post and exited (step 3.3 → 4.1). Her HTA path was shorter, and she disengaged faster compared to Joan, showing that privacy anxiety had a stronger impact on her actions.
+
+### Similarities
+Both users struggled with platforms requiring personal information, which made them feel exposed and vulnerable (HTA step 2.3.1 and 3.2). Despite using different platforms, they both failed to find a trusted, truly anonymous legal advice source. Their experiences reflected emotional states like worry, confusion, and frustration, leading both of them to end the task without getting the help they needed. These patterns suggest that current digital tools are not designed well for users seeking anonymous legal guidance.
+
+### Design Implications
+The comparison highlights the need for a private and safe legal aid solution. JustiLink should provide anonymous channels like chatbots or masked email systems where users can ask questions without revealing personal details. Additionally, offering step-by-step guidance and reducing barriers (like mandatory sign-ups) will improve the experience, especially for sensitive issues. For users like Emma, clear privacy policies and reassurance about data protection are crucial. For users like Joan, the platform should guide them toward reliable sources without overwhelming legal language. These findings show that anonymity, emotional safety, and simple navigation are key design priorities.
+
+
+
 ---
 ## Task 3: Mobile-First, User-Centered Interface
 [![Migrant Construction Worker Task 3 Video](https://img.youtube.com/vi/vLjWIWD8-lY/0.jpg)](https://youtu.be/vLjWIWD8-lY) <br>
@@ -401,7 +419,8 @@ In contrast, the Office Worker demonstrated more digital confidence. She first c
 
 Despite their differences, both users encountered challenges that led them to abandon the task. They both faced long loading times (HTA 3.1), cluttered layout (4.1), and frustration with unresponsive website elements. Neither user was able to complete their goal of finding useful legal help, highlighting usability issues that affect users across different backgrounds.
 
-Hence,from these observations, it is clear that JustiLink should prioritize fast loading speeds, responsive design, and user-friendly navigation—especially on low-end devices. For users like the Migrant Construction Worker, the system must be straightforward and lightweight to prevent early drop-off. For more digitally literate users like the Office Worker, the design should still minimize distractions like pop-ups and broken buttons. These insights from HTA analysis help shape a legal aid platform that is inclusive, accessible, and effective for diverse users.
+### Design Implications
+From these observations, it is clear that JustiLink should prioritize fast loading speeds, responsive design, and user-friendly navigation—especially on low-end devices. For users like the Migrant Construction Worker, the system must be straightforward and lightweight to prevent early drop-off. For more digitally literate users like the Office Worker, the design should still minimize distractions like pop-ups and broken buttons. These insights from HTA analysis help shape a legal aid platform that is inclusive, accessible, and effective for diverse users.
 
 
 ## 📋Design Requirement
