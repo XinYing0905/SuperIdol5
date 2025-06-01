@@ -373,7 +373,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 - Ensure fast loading, clean layout, working buttons  
 - Simplify navigation and content for all literacy levels
 
-# 📊 HTA Comparison for Task 3
+# Comparison for Task 3
  | Aspect                               |  Rahim Uddin(Migrant Construction Worker)                                                    | Emma(Office Worker)                                                                              |
 | ------------------------------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **Background & Motivation**          | Rahim Uddin uses basic phone user limited data to seek legal rights information              | Emma uses budget smartphone user on public Wi-Fi to seek employee legal help                          |
@@ -383,6 +383,22 @@ Many people are excluded from accessing their rights due to digital limitations.
 
 ### Similarities
 Both the migrant construction worker and the office worker tried to find legal help online by searching on their devices and visiting legal aid websites. Although they used different devices and had different levels of digital skills, they faced similar problems such as slow website loading, difficult navigation, and technical issues. These problems made both users feel frustrated and unhappy, which led them to stop using the websites before finishing their tasks. This shows that no matter what device or background the user has, online legal help platforms need to be easy to use, quick to load, and designed for people with different skills and devices. 
+
+# 📊 HTA Comparison for Task 3 and Discussion
+
+Task 3 involved two personas: the Migrant Construction Worker and the Office Worker, both attempting to find legal help through their mobile devices. Although they shared the same goal, their experiences differed due to factors such as digital literacy, device limitations, and interface usability.
+### Differences
+
+The Migrant Construction Worker searched for legal rights using his mobile phone and tried to access a legal aid website. According to his HTA, he navigated the site briefly but gave up after experiencing slow page loading and difficulty scrolling (HTA step 2.2.3 → 3.1). This shows that he may have limited experience with online platforms and quickly disengages when the interface is not responsive.
+
+In contrast, the Office Worker demonstrated more digital confidence. She first connected to public Wi-Fi before searching for employee legal help (HTA step 1 → 2). Although she encountered various interface issues such as pop-up interruptions and unresponsive buttons (step 3.4 → 3.5), she still made several attempts to interact with the content before exiting. This indicates that she was more persistent but still hindered by poor design and usability on her budget smartphone.
+
+### Similarities
+
+Despite their differences, both users encountered challenges that led them to abandon the task. They both faced long loading times (HTA 3.1), cluttered layout (4.1), and frustration with unresponsive website elements. Neither user was able to complete their goal of finding useful legal help, highlighting usability issues that affect users across different backgrounds.
+
+Hence,from these observations, it is clear that JustiLink should prioritize fast loading speeds, responsive design, and user-friendly navigation—especially on low-end devices. For users like the Migrant Construction Worker, the system must be straightforward and lightweight to prevent early drop-off. For more digitally literate users like the Office Worker, the design should still minimize distractions like pop-ups and broken buttons. These insights from HTA analysis help shape a legal aid platform that is inclusive, accessible, and effective for diverse users.
+
 
 ## 📋Design Requirement
 
