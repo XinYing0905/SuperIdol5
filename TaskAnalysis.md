@@ -264,7 +264,9 @@ Many people are excluded from accessing their rights due to digital limitations.
 - Plan 3: Do 3.1 → 3.2  
 
 **Diagram Presentation**  
-`![HTA Task 3 - Migrant Construction Worker](path/to/migrant_task3.png)`
+
+![pics](https://i.imgur.com/NQ4mDHP.png)
+`
 
 ---
 
