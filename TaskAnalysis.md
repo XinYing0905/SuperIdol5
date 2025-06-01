@@ -171,20 +171,18 @@ In contrast, Emma started her task by searching for rights or information about 
 All three users tried to understand their legal information whether by reading articles, using online tools or contacting authorities. In the end, none of them completed their task with clarity and confidence. Hence, these 3 HTA above showed the current legal content formats fail to serve users with language proficiency and legal knowledge.
 
 ### Design Implications
-Based on the HTA findings, we identify both improvements to be made and features worth retaining.
+According to the HTA findings, we conclude the improvements and the features that are worth retaining to ensure the platforms is user friendly for different users with mastering different languages and legal knowledge
 
 Improvement needed:
-- Simplify legal content using plain language and clear visual structure.
+- Simplified legal content by using simple language and making them in clearer visual structure to prevent the complex legal jargon. Hence, all the users may easy to understand the content
 
-- Optimize the platform for mobile devices to ensure fast loading times and minimal interruptions.
-  
-- Improve multilingual support and ensure accurate, culturally relevant translations.
+- Support the multilingual and ensure its accurate and in relevant translations so that users with varying different languages skills may access the legal information
 
 Features to keep:
 
-- Maintain the clean and minimal interface that supports easy navigation.
+- Maintain the simple and clean interface to ensure the users may navigate easily
 
-- Keep accessible font sizes and strong contrast settings to enhance readability.
+- Keep font sizes are accessible and high contrast to improve readability
 
 
 # Task 2: Seeking Anonymous Legal Advice
