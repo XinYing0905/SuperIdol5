@@ -171,12 +171,12 @@ Both Joan and Emma experienced difficulties in completing their tasks. Joan was 
 ### Design Implications
 Based on the HTA findings, we identify both improvements to be made and features worth retaining.
 
-Need to Add/Improve:
+Improvement needed:
 - Simplify legal content using plain language and clear visual structure.
 
 - Optimize the platform for mobile devices to ensure fast loading times and minimal interruptions.
 
-Need to Retain:
+Features to keep:
 
 - Maintain the clean and minimal interface that supports easy navigation.
 
@@ -312,13 +312,13 @@ Both users struggled with platforms requiring personal information, which made t
 ### Design Implications
 HTA analysis suggests several areas for improvement while also highlighting elements that should be preserved.
 
-Need to Add/Improve:
+Improvement needed:
 
 - Provide anonymous communication channels (e.g., chatbots or masked emails) to protect user privacy.
 
 - Introduce step-by-step guidance and reduce sign-up barriers to improve user trust and comfort.
 
-Need to Retain:
+Features to keep:
 
 - Preserve clear privacy policy statements to reassure users about data protection.
 
@@ -460,13 +460,13 @@ Despite their differences, both users encountered challenges that led them to ab
 ### Design Implications
 Insights from the HTA show what should be improved and what already works well for users with varying digital literacy levels.
 
-Need to Add/Improve:
+Improvement needed:
 
 - Prioritize fast loading speeds and responsive design, especially for low-end devices.
 
 - Reduce distractions, such as pop-ups and unresponsive interface elements.
 
-Need to Retain:
+Features to keep:
 
 - Maintain the straightforward and lightweight system design that suits users with limited technical skills.
 
