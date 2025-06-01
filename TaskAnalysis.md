@@ -168,7 +168,17 @@ In contrast, Emma used a more technical approach. She connected to public Wi-Fi 
 Both Joan and Emma experienced difficulties in completing their tasks. Joan was overwhelmed by unreadable legal content, while Emma was frustrated by poor usability and layout. In both cases, the users exited the process without finding a satisfying solution. This highlights a shared pain point: current legal information platforms are not well-optimized for diverse users, whether due to content complexity or interface issues.
 
 ### Design Implications
-From these HTA comparisons, JustiLink should focus on simplifying legal content and ensuring the platform is user-friendly on all types of devices. For users like Joan, content should be broken into plain language and visually structured. For users like Emma, the system must be optimized for mobile with minimal interruptions and quick loading speeds. These changes can help reduce user drop-offs and improve overall accessibility.
+Based on the HTA findings, we identify both improvements to be made and features worth retaining.
+Need to Add/Improve:
+- Simplify legal content using plain language and clear visual structure.
+
+- Optimize the platform for mobile devices to ensure fast loading times and minimal interruptions.
+
+Need to Retain:
+
+- Maintain the clean and minimal interface that supports easy navigation.
+
+- Keep accessible font sizes and strong contrast settings to enhance readability.
 
 
 # Task 2: Seeking Anonymous Legal Advice
@@ -298,7 +308,19 @@ Emma, on the other hand, chose to start on social media platforms to learn about
 Both users struggled with platforms requiring personal information, which made them feel exposed and vulnerable (HTA step 2.3.1 and 3.2). Despite using different platforms, they both failed to find a trusted, truly anonymous legal advice source. Their experiences reflected emotional states like worry, confusion, and frustration, leading both of them to end the task without getting the help they needed. These patterns suggest that current digital tools are not designed well for users seeking anonymous legal guidance.
 
 ### Design Implications
-The comparison highlights the need for a private and safe legal aid solution. JustiLink should provide anonymous channels like chatbots or masked email systems where users can ask questions without revealing personal details. Additionally, offering step-by-step guidance and reducing barriers (like mandatory sign-ups) will improve the experience, especially for sensitive issues. For users like Emma, clear privacy policies and reassurance about data protection are crucial. For users like Joan, the platform should guide them toward reliable sources without overwhelming legal language. These findings show that anonymity, emotional safety, and simple navigation are key design priorities.
+HTA analysis suggests several areas for improvement while also highlighting elements that should be preserved.
+
+Need to Add/Improve:
+
+- Provide anonymous communication channels (e.g., chatbots or masked emails) to protect user privacy.
+
+- Introduce step-by-step guidance and reduce sign-up barriers to improve user trust and comfort.
+
+Need to Retain:
+
+- Preserve clear privacy policy statements to reassure users about data protection.
+
+- Retain current features that guide users toward reliable legal sources without overwhelming legal jargon.
 
 
 
@@ -434,7 +456,21 @@ In contrast, Emma demonstrated more digital confidence. She first connected to p
 Despite their differences, both users encountered challenges that led them to abandon the task. They both faced long loading times (HTA 3.1), cluttered layout (4.1), and frustration with unresponsive website elements. Neither user was able to complete their goal of finding useful legal help, highlighting usability issues that affect users across different backgrounds.
 
 ### Design Implications
-From these observations, it is clear that JustiLink should prioritize fast loading speeds, responsive design, and user-friendly navigation—especially on low-end devices. For users like the Migrant Construction Worker, the system must be straightforward and lightweight to prevent early drop-off. For more digitally literate users like the Office Worker, the design should still minimize distractions like pop-ups and broken buttons. These insights from HTA analysis help shape a legal aid platform that is inclusive, accessible, and effective for diverse users.
+Insights from the HTA show what should be improved and what already works well for users with varying digital literacy levels.
+
+Need to Add/Improve:
+
+- Prioritize fast loading speeds and responsive design, especially for low-end devices.
+
+- Reduce distractions, such as pop-ups and unresponsive interface elements.
+
+Need to Retain:
+
+- Maintain the straightforward and lightweight system design that suits users with limited technical skills.
+
+- Continue ensuring compatibility across a variety of devices to support diverse user needs.
+
+
 
 
 ## 📋Design Requirements
