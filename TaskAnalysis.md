@@ -37,7 +37,7 @@ This task analysis aims to understand how users currently find legal support thr
 
 **Diagram Presentation**
 
-*<insert img: Photos/persona1Task1.drawio.png>*
+![High School Student Task 1](Photos/persona1Task1.drawio.png)
 
 ---
 
@@ -71,7 +71,7 @@ This task analysis aims to understand how users currently find legal support thr
 
 **Diagram Presentation**
 
-*<insert img: Photos/Persona2task1.png>*
+![Migrant Construction Worker Task 1](Photos/Persona2task1.png)
 
 ---
 
@@ -108,7 +108,8 @@ This task analysis aims to understand how users currently find legal support thr
 
 **Diagram Presentation**
 
-*<insert img: Photos/hta task 1 persona 3.drawio (4).png>*
+![Office Worker Task 1](Photos/hta task 1 persona 3.drawio (4).png)
+
 
 
 # Task 2: Anonymous First Chat Feature
