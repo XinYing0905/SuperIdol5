@@ -377,7 +377,7 @@ Many people are excluded from accessing their rights due to digital limitations.
  | Aspect                               |  Rahim Uddin(Migrant Construction Worker)                                                    | Emma(Office Worker)                                                                              |
 | ------------------------------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **Background & Motivation**          | Rahim Uddin uses basic phone user limited data to seek legal rights information              | Emma uses budget smartphone user on public Wi-Fi to seek employee legal help                          |
-| **Starting Point**                   | Searches “legal rights” via mobile browser                                      | Searches “employee legal help Malaysia” via browser                                        |
+| **Starting Point**                   | Rahim Uddin starts with searching “legal rights” via mobile browser                                      | Emma starts with searching “employee legal help Malaysia” via browser                                        |
 | **Interaction & Emotional Response** | Faces slow loading and confusing navigation; quickly frustrated and exits early | Encounters lag, unresponsive buttons, and pop-ups; frustrated but persists before quitting |
 | **Main Challenges**                  | Device limitations, low digital literacy, slow site performance                 | Poor UI design, lag, device overheating, and battery drain                                 |
 
