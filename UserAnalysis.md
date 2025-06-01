@@ -99,6 +99,7 @@ After repeated delays and interruptions, Rahim becomes visibly frustrated and ev
 ### 🧩 Task 1: Simplified Legal Content
 
 Emma, a part-time retail worker, injured her hand after being assigned repetitive tasks without sufficient breaks. Seeking help for the high cost of her clinic treatment, she opened her laptop and searched for information about employer medical claims. She found several official sites but was quickly overwhelmed by the complicated legal language and technical terms. Despite spending time trying to understand the content, she still wasn’t sure whether her situation qualified for a claim or how to begin the process.
+
 Hoping to get more direct answers, Emma called the labour department’s helpline. But instead of guidance, she was told she needed multiple certified documents to proceed—without any clear explanation of what they were or how to get them. Feeling confused and intimidated, especially without any legal background, Emma gave up. This scenario highlights the need for clear, accessible legal content and simplified claim instructions—delivered in plain language with visual guides and practical examples to help non-experts like Emma take action with confidence.
 
 ---
@@ -106,6 +107,7 @@ Hoping to get more direct answers, Emma called the labour department’s helplin
 ### 💬 Task 2: Anonymous First Chat Feature
 
 Emma has been experiencing unfair treatment from her boss at work, including being assigned the least desirable shifts and receiving harsh criticism without reason. These incidents have left her feeling anxious and unsure about her rights. Wanting to speak up and find out what she can do, Emma turns to a popular social media platform to express her thoughts and seek advice from others. She begins typing a post about her situation, hoping someone might understand or point her in the right direction.
+
 However, as she re-reads what she’s written, a wave of doubt sets in. She worries that her post might be seen by coworkers—or worse, her employer—and fears it could cost her the job she depends on. Out of fear, she deletes the post and decides not to share anything at all. Emma closes her device, feeling isolated and helpless, with no safe space to talk about what’s happening. This scenario reflects the urgent need for an anonymous first chat feature, where workers like Emma can privately ask questions, seek support, and get the guidance they need without the fear of being identified or judged.
 
 ---
