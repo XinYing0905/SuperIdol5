@@ -306,7 +306,9 @@ Many people are excluded from accessing their rights due to digital limitations.
 - Plan 5: Do 5.1 → 5.2  
 
 **Diagram Presentation**  
-`![HTA Task 3 - Office Worker](path/to/officeworker_task3.png)`
+## 用户查找法律援助的行为路径图
+
+![Find legal help ](https://i.imgur.com/ybkcdvb.png)
 
 ---
 
