@@ -116,7 +116,7 @@ This task analysis aims to understand how users currently find legal support thr
 
 ![Office Worker Task 1](Photos/task1persona3)
 
-###Findings from the HTAs for Task 1
+### Findings from the HTAs for Task 1
 1. Technical Challenges<br>
 -Many users face delays due to slow website performance on basic devices.<br>
 -Navigation elements often malfunction or fail to respond properly.<br>
@@ -163,9 +163,8 @@ Many people are excluded from accessing their rights due to digital limitations.
 
 ---
 
-# Hierarchical Task Analysis (HTA)
 
-## Task 2: Seeking Anonymous Legal Advice
+# Task 2: Seeking Anonymous Legal Advice
 [![High School Student Task 2 Video](https://img.youtube.com/vi/bUnu5TXB7f8/0.jpg)](https://youtu.be/bUnu5TXB7f8) <br>
 ### High School Student
 
