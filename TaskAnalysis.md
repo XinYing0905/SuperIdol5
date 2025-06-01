@@ -86,6 +86,7 @@ Figure2: HTA of Rahim Uddin performing Task 1 before without using JustiLink
 ## Office Worker
 [![Office Worker Video](https://img.youtube.com/vi/z7ZoFQaXzoE/0.jpg)](https://youtu.be/z7ZoFQaXzoE) <br>
 *click here to watch the video👆*<br>
+
 **Textual Presentation** <br>
 
 0. Know rights on medical claims  
@@ -189,6 +190,7 @@ Features to keep:
 # Task 2: Seeking Anonymous Legal Advice
 [![High School Student Task 2 Video](https://img.youtube.com/vi/bUnu5TXB7f8/0.jpg)](https://youtu.be/bUnu5TXB7f8) <br>
 *click here to watch the video👆*<br>
+
 ### High School Student
 
 **Textual Presentation**
@@ -232,6 +234,7 @@ Figure4: HTA of Joan performing Task 2 before without using JustiLink
 ### Office Worker
 [![Office Worker Task 2 Video](https://img.youtube.com/vi/EC4lPAE87so/0.jpg)](https://youtu.be/EC4lPAE87so) <br>
 *click here to watch the video👆*<br>
+
 **Textual Presentation**
 
 0. In order to know rights on medical claims  
@@ -263,7 +266,7 @@ Figure5: HTA of Emma performing Task 2 before without using JustiLink
 
 ### Findings from HTA Task 2
 
-**Technical Challenges**<br>  
+**Teqchnical Challenges**<br>  
 - Many platforms require personal information<br>  
 - Even “anonymous” online spaces may have digital traces<br> 
 - Risk of being identified by employers and friends
@@ -333,6 +336,7 @@ Features to keep:
 ## Task 3: Mobile-First, User-Centered Interface
 [![Migrant Construction Worker Task 3 Video](https://img.youtube.com/vi/vLjWIWD8-lY/0.jpg)](https://youtu.be/vLjWIWD8-lY) <br>
 *click here to watch the video👆*<br>
+
 ### Migrant Construction Worker
 
 **Textual Presentation**
@@ -369,6 +373,7 @@ Figure6: HTA of Radhim Uddin performing Task 3 before without using JustiLink
 ### Office Worker
 [![Office Worker Task 3 Video](https://img.youtube.com/vi/TZgNNm9A6pI/0.jpg)](https://youtu.be/TZgNNm9A6pI) <br>
 *click here to watch the video👆*<br>
+
 **Textual Presentation**
 
 0. Access legal help on a budget smartphone  
