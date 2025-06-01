@@ -137,19 +137,26 @@ Many people are excluded from accessing their rights due to digital limitations.
 
 ---
 
-# 📊 HTA Comparison for Task 1
+## ✅ Similarities
 
-| *Aspect*                       | *High School Student*                                                                                                          | *Migrant Construction Worker*                                                                                                          | *Office Worker*                                                                                                                    |
-|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| *Goal*                         | Understand Malaysian bullying laws.                                                                                              | Understand and respond to a bilingual work contract.                                                                                    | Understand rights on medical claims after a workplace injury.                                                                         |
-| *Starting Point*              | Opens browser and searches legal information.                                                                                   | Receives a work contract in English and Malay.                                                                                          | Attempts to find medical claim rights using Google.                                                                                   |
-| *Information Interpretation*   | Reads articles, uses Google Translate, struggles with legal jargon.                                                              | Tries to translate contract content using tools, but faces poor translation quality and ambiguity.                                      | Tries to interpret legal jargon online, but quickly becomes confused and frustrated.                                                  |
-| *Support-Seeking Behavior*     | Considers alternatives like searching for NGOs or support forums when confused.                                                  | Evaluates whether to seek help or proceed independently. Often lacks access to reliable legal support.                                 | Tries calling labor department helpline, but feels overwhelmed by long procedures and required documentation.                        |
-| *Emotional Response*           | Feels confused and unsure, but still tries alternative sources and considers further action.                                     | Feels unsure due to unclear translation and contract complexity. May proceed out of obligation or fear, despite lack of full clarity.  | Feels discouraged and frustrated; perceives the system as too complicated and gives up.                                               |
-| *Final Action*                | May continue exploring or save links for future reference, even if uncertain.                                                    | Often signs the contract due to obligation, despite limited understanding.                                                             | Gives up and leaves the issue unresolved due to procedural burden and emotional strain.                                               |
-| *Privacy/Power Dynamics*       | Limited concern—likely acts alone but may access forums anonymously.                                                             | May not know where or how to seek safe help; language and legal literacy barriers are critical.                                         | Concerned about job risk, fear of exposure, and losing employment benefits—strong emotional and social deterrents.                   |
-| *HTA Structure*               | Structured with attempts to interpret, translate, and search alternatives (Plan 3.3 → 3.3.1, 3.3.2 shows iterative deep search). | Multiple paths show progressive steps: translation → understanding → decision-making, but constrained by comprehension (Plan 2, 3, 4). | Demonstrates escalation but also abandonment (Plan 2.2.3 → 3.1 shows breakdown under bureaucracy).                                    |
-| *Decision-Making Outcome*      | Tentative, not resolved but exploratory.                                                                                         | Signs the contract—finalized despite uncertainty.                                                                                       | Ends the process prematurely without solution.                                                                                        |
+| **Aspect**              | **Observation Across All Three Users**                                                                 |
+|------------------------|---------------------------------------------------------------------------------------------------------|
+| **Initial Goal**       | All users seek to understand rights or obligations related to legal or official matters.                |
+| **Information Source** | All attempt to get information through digital platforms (web search, translation tools, online help).  |
+| **Encounter Barriers** | Each user faces difficulties in understanding formal/legal content due to complex or unfamiliar language. |
+| **Emotional Experience** | All users show signs of **confusion**, **uncertainty**, or **frustration** during their process.         |
+| **Privacy & Fear**     | All users have **concerns about exposure**, whether due to embarrassment, job risk, or data entry.      |
+
+---
+
+## 🔍 Differences
+
+| **Aspect**                    | **High School Student**                                                                 | **Migrant Construction Worker**                                               | **Office Worker**                                                          |
+|------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **Motivation/Context**       | Learning rights due to **personal bullying** experience.                                 | Needs to **sign a work contract** with unclear content.                       | Tries to **claim medical benefits** but fears consequences.                |
+| **Digital Literacy**         | High – uses browser, search terms, translation, and forums.                              | Moderate – uses translation tools but may not explore alternatives.           | Moderate – searches Google, attempts calling helpline.                     |
+| **Language Barrier**         | Faces legal jargon, overcomes it with Google Translate and forums.                       | Major barrier – contract is in English/Malay, translation is poor.            | Struggles with legal terms but can read and understand to a basic extent.  |
+| **Support-Seeking Behavior** | Proactively searches for forums, NGOs, alternative sources.                              | May avoid help due to fear, uncertainty, or lack of access.                   | Attempts to seek help (calls helpline), but finds it too complex.          |
 
 ---
 
