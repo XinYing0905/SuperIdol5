@@ -358,4 +358,19 @@ Many people are excluded from accessing their rights due to digital limitations.
 **5. Recommendations**  
 - Design lightweight, mobile-friendly legal platforms  
 - Ensure fast loading, clean layout, working buttons  
-- Simplify navigation and content for all literacy levels  
+- Simplify navigation and content for all literacy levels
+
+# 📊 HTA Comparison for Task 3
+  | **Aspect**                    | **Migrant Construction Worker**                                          | **Office Worker**                                                                       |
+| ----------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
+| **Goal**                      | Get basic legal help for worker rights                                   | Learn about legal protection for workplace issues                                       |
+| **Device & Connection**       | Older phone with limited data; depends on mobile internet                | Budget smartphone; uses free public Wi-Fi                                               |
+| **Starting Action**           | Directly types broad keywords like “legal rights” into search bar        | Searches using more specific terms like “employee legal help Malaysia”                  |
+| **Website Interaction Style** | Brief engagement: clicks, scrolls, waits, then quits quickly             | Active interaction: scrolls, zooms, taps buttons, closes pop-ups                        |
+| **Challenges Faced**          | Laggy site, unfamiliar layout, fear of “doing something wrong”           | UI clutter, unresponsive buttons, battery drain, overloaded screen                      |
+| **HTA Flow Structure**        | Linear and short: minimal branching (Plan 0: 1 → 2 → 3)                  | Longer, multi-branch HTA: retries steps, handles interruptions (Plan 3.1–3.5, 4.1–4.3)  |
+| **Support-Seeking Behavior**  | None observed—gives up silently, no retry or external search             | Tries multiple internal actions (e.g. close pop-ups), shows willingness to troubleshoot |
+| **Emotional Response**        | Hesitant, insecure, quickly overwhelmed by complexity                    | Frustrated, determined at first but becomes disillusioned over time                     |
+| **Final Outcome**             | Leaves website early, likely never receives the needed legal help        | Exits after several failed attempts; experience leaves a negative impression            |
+| **Implied Design Barriers**   | Low digital literacy, fear of error, content not localized or simplified | Poor UI/UX design, too much visual noise, performance issues on low-end devices         |
+
