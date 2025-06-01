@@ -43,7 +43,7 @@ This task analysis aims to understand how users currently find legal support thr
 ---
 
 ## Migrant Construction Worker
-[![Migrant Construction Worker Video](https://img.youtube.com/vi/ze3URfK8-gc/0.jpg)](https://youtu.be/ze3URfK8-gc)
+[![Migrant Construction Worker Video](https://img.youtube.com/vi/ze3URfK8-gc/0.jpg)](https://youtu.be/ze3URfK8-gc)<br>
 **Textual Presentation**
 
 0. Sign a work contract  
@@ -79,7 +79,7 @@ This task analysis aims to understand how users currently find legal support thr
 ---
 
 ## Office Worker
-
+[![Office Worker Video](https://img.youtube.com/vi/z7ZoFQaXzoE/0.jpg)](https://youtu.be/z7ZoFQaXzoE) <br>
 **Textual Presentation**
 
 0. Know rights on medical claims  
@@ -142,7 +142,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 # Hierarchical Task Analysis (HTA)
 
 ## Task 2: Seeking Anonymous Legal Advice
-
+[![High School Student Task 2 Video](https://img.youtube.com/vi/bUnu5TXB7f8/0.jpg)](https://youtu.be/bUnu5TXB7f8) <br>
 ### High School Student
 
 **Textual Presentation**
@@ -183,7 +183,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 ---
 
 ### Office Worker
-
+[![Office Worker Task 2 Video](https://img.youtube.com/vi/EC4lPAE87so/0.jpg)](https://youtu.be/EC4lPAE87so) <br>
 **Textual Presentation**
 
 0. In order to know rights on medical claims  
@@ -237,7 +237,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 ---
 
 ## Task 3: Mobile-First, User-Centered Interface
-
+[![Migrant Construction Worker Task 3 Video](https://img.youtube.com/vi/vLjWIWD8-lY/0.jpg)](https://youtu.be/vLjWIWD8-lY) <br>
 ### Migrant Construction Worker
 
 **Textual Presentation**
@@ -271,7 +271,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 ---
 
 ### Office Worker
-
+[![Office Worker Task 3 Video](https://img.youtube.com/vi/TZgNNm9A6pI/0.jpg)](https://youtu.be/TZgNNm9A6pI) <br>
 **Textual Presentation**
 
 0. Access legal help on a budget smartphone  
