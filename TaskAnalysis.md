@@ -146,7 +146,7 @@ Figure3: HTA of Rahim Uddin performing Task 1 before without using JustiLink
 
 ## Comparison of User Interactions in Task 1
 
-| **Aspect**                    | **Joan(High School Student)**                                                                 | ** Rahim Uddin(Migrant Construction Worker)**                                               | **Emma(Office Worker)**                                                          |
+| **Aspect**                    | **Joan(High School Student)**                                                                 | **Rahim Uddin(Migrant Construction Worker)**                                               | **Emma(Office Worker)**                                                          |
 |------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | **Motivation/Context**       | Learning rights due to **personal bullying** experience.                                 | Needs to **sign a work contract** with unclear content.                       | Tries to **claim medical benefits** but fears consequences.                |
 | **Digital Literacy**         | High – uses browser, search terms, translation, and forums.                              | Moderate – uses translation tools but may not explore alternatives.           | Moderate – searches Google, attempts calling helpline.                     |
