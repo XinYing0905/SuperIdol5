@@ -43,7 +43,7 @@ This task analysis aims to understand how users currently find legal support thr
 ---
 
 ## Migrant Construction Worker
-
+[![Migrant Construction Worker Video](https://img.youtube.com/vi/ze3URfK8-gc/0.jpg)](https://youtu.be/ze3URfK8-gc)
 **Textual Presentation**
 
 0. Sign a work contract  
