@@ -265,7 +265,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 
 **Diagram Presentation**  
 
-![pics](https://ibb.co/ycqcFK1T)
+![Task 3a](https://github.com/XinYing0905/Super-Mafia/blob/main/Photos/Task3a.png?raw=true)
 
 ---
 
