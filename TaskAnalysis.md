@@ -9,9 +9,10 @@ This task analysis aims to understand how users currently find legal support thr
 # Task 1: Understand Legal Content in Simple Language
 
 ## High School Student
-[![High School Student Video](https://img.youtube.com/vi/ILNBJDyMGvQ/0.jpg)](https://youtu.be/ILNBJDyMGvQ)
+[![High School Student Video](https://img.youtube.com/vi/ILNBJDyMGvQ/0.jpg)](https://youtu.be/ILNBJDyMGvQ)<br>
+*click to watch the video* <br>
 
-**Textual Presentation**
+**Textual Presentation**<br>
 
 0. Understand bullying laws  
  1. Access a web browser  
@@ -44,7 +45,8 @@ This task analysis aims to understand how users currently find legal support thr
 
 ## Migrant Construction Worker
 [![Migrant Construction Worker Video](https://img.youtube.com/vi/ze3URfK8-gc/0.jpg)](https://youtu.be/ze3URfK8-gc)<br>
-**Textual Presentation**
+*click to watch the video* <br>
+**Textual Presentation**<br>
 
 0. Sign a work contract  
  1. Receive contract  
@@ -80,7 +82,8 @@ This task analysis aims to understand how users currently find legal support thr
 
 ## Office Worker
 [![Office Worker Video](https://img.youtube.com/vi/z7ZoFQaXzoE/0.jpg)](https://youtu.be/z7ZoFQaXzoE) <br>
-**Textual Presentation**
+*click to watch the video* <br>
+**Textual Presentation** <br>
 
 0. Know rights on medical claims  
  1. Attempt to search for information online  
