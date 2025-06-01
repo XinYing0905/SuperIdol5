@@ -47,6 +47,7 @@ Figure1: HTA of Joan performing Task 1 before without using JustiLink
 ## Migrant Construction Worker
 [![Migrant Construction Worker Video](https://img.youtube.com/vi/ze3URfK8-gc/0.jpg)](https://youtu.be/ze3URfK8-gc)<br>
 *click here to watch the video👆*<br>
+
 **Textual Presentation**<br>
 
 0. Sign a work contract  
