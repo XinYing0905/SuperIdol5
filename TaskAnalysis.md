@@ -207,7 +207,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 - Plan 4: Do 4.1  
 
 **Diagram Presentation**  
-`![HTA Task 2 - Office Worker](path/to/officeworker_task2.png)`
+![HTA Task 2 - Office Worker](Photos/persona3task2.png)
 
 ---
 
