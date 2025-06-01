@@ -141,15 +141,9 @@ Many people are excluded from accessing their rights due to digital limitations.
 
 ---
 
+# Comparison of User Interactions in Task 1
 ## ✅ Similarities
-
-| **Aspect**              | **Observation Across All Three Users**                                                                 |
-|------------------------|---------------------------------------------------------------------------------------------------------|
-| **Initial Goal**       | All users seek to understand rights or obligations related to legal or official matters.                |
-| **Information Source** | All attempt to get information through digital platforms (web search, translation tools, online help).  |
-| **Encounter Barriers** | Each user faces difficulties in understanding formal/legal content due to complex or unfamiliar language. |
-| **Emotional Experience** | All users show signs of **confusion**, **uncertainty**, or **frustration** during their process.         |
-| **Privacy & Fear**     | All users have **concerns about exposure**, whether due to embarrassment, job risk, or data entry.      |
+All three users shared similar goals in Task 1, as they were trying to understand their rights or obligations related to legal or official matters. They all attempted to obtain information using digital platforms such as web searches, translation tools, or online help services. However, each of them encountered barriers when trying to comprehend the formal or legal content, which often contained complex or unfamiliar language. This difficulty caused confusion, uncertainty, and frustration during their search process. Additionally, all users expressed concerns about their privacy and feared exposure, whether due to embarrassment, potential job risks, or the requirement to enter personal data.
 
 ---
 
@@ -162,7 +156,19 @@ Many people are excluded from accessing their rights due to digital limitations.
 | **Language Barrier**         | Faces legal jargon, overcomes it with Google Translate and forums.                       | Major barrier – contract is in English/Malay, translation is poor.            | Struggles with legal terms but can read and understand to a basic extent.  |
 | **Support-Seeking Behavior** | Proactively searches for forums, NGOs, alternative sources.                              | May avoid help due to fear, uncertainty, or lack of access.                   | Attempts to seek help (calls helpline), but finds it too complex.          |
 
----
+# 📊 HTA Comparison for Task 3 and Discussion
+Task 1 involved two personas—Joan, a university student, and Emma, an office worker—who both attempted to access legal information online, specifically regarding bullying laws and employee legal rights. Although both users aimed to understand their legal standing, their HTA steps reveal different user experiences and challenges.
+
+### Differences
+Joan began her task by searching for “bullying law in Malaysia” and browsed through various websites (HTA 2.1 → 2.2). She clicked on a relevant article and attempted to read it, but struggled with legal jargon (3.3.2), eventually feeling unsure and overwhelmed (4.2). This reflects her limited familiarity with legal content and her dependence on search results to guide her.
+
+### In contrast, Emma used a more technical approach. She connected to public Wi-Fi before searching for legal help as an employee (HTA 1 → 2). Though she successfully accessed a site, she encountered multiple issues—such as pop-ups, unresponsive buttons, and slow loading (3.2 → 3.5)—which disrupted her experience. Despite her better digital literacy, she ultimately exited due to frustration and concern about phone performance (5.1 → 5.2).
+
+### Similarities
+Both Joan and Emma experienced difficulties in completing their tasks. Joan was overwhelmed by unreadable legal content, while Emma was frustrated by poor usability and layout. In both cases, the users exited the process without finding a satisfying solution. This highlights a shared pain point: current legal information platforms are not well-optimized for diverse users, whether due to content complexity or interface issues.
+
+### Design Implications
+From these HTA comparisons, JustiLink should focus on simplifying legal content and ensuring the platform is user-friendly on all types of devices. For users like Joan, content should be broken into plain language and visually structured. For users like Emma, the system must be optimized for mobile with minimal interruptions and quick loading speeds. These changes can help reduce user drop-offs and improve overall accessibility.
 
 
 # Task 2: Seeking Anonymous Legal Advice
