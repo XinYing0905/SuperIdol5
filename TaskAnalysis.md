@@ -275,6 +275,9 @@ From these HTA comparisons, JustiLink should focus on simplifying legal content 
 | **Emotional Journey and Final Outcome** | Feels hesitant but hopeful, continues searching, leaves with saved links, though her questions are unresolved.         | Feels overwhelmed, frustrated, and discouraged, and completely gives up without obtaining any useful information.        |
 | **Who Uses the Shortest Path to Reach a Decision?** | Emma takes the shortest route. She moves from seeking information to deciding not to post and closes her laptop. Her journey ends faster due to greater fear of exposure. | Joan takes a longer, more exploratory path, checking multiple online sources, trying to read content, and even saving links. Despite feeling hesitant, she does not completely abandon the task. |
 
+### Similarities
+Both Joan and Emma faced privacy worries when platforms asked for personal details. Neither was able to get clear, trustworthy advice anonymously. They both felt confused, frustrated, and ended their searches without answers.
+
 # 📊 HTA Comparison for Task 2 and Discussion
 
 Task 2 involved two personas: a high school student (Joan) and an office worker (Emma), both trying to seek anonymous legal advice online. Although they shared the same goal, their experiences and decision-making processes differed due to privacy concerns, digital habits, and emotional reactions.
