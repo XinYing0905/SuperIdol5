@@ -169,6 +169,7 @@ Both Joan and Emma experienced difficulties in completing their tasks. Joan was 
 
 ### Design Implications
 Based on the HTA findings, we identify both improvements to be made and features worth retaining.
+
 Need to Add/Improve:
 - Simplify legal content using plain language and clear visual structure.
 
