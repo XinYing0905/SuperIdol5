@@ -131,7 +131,7 @@ This task analysis aims to understand how users currently find legal support thr
 -Users frequently abandon the process before reaching a solution.<br>
 -Negative experiences reduce trust and motivation to seek help again.
 4.  Accessibility Concerns<br>
-Legal resources do not cater to low-spec devices or unstable internet connections.
+- Legal resources do not cater to low-spec devices or unstable internet connections.
 Many people are excluded from accessing their rights due to digital limitations.
 5. Recommendations<br>
 -Create fast, efficient platforms that work well on all types of mobile devices.<br>
