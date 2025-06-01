@@ -305,7 +305,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 - Plan 5: Do 5.1 → 5.2  
 
 **Diagram Presentation**  
-![Task 3b](https://i.ibb.co/35SPJDry/Task3b.png)
+![Task3b](https://github.com/XinYing0905/Super-Mafia/raw/main/Photos/Task3b.png)
 
 
 ---
