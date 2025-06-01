@@ -114,25 +114,25 @@ This task analysis aims to understand how users currently find legal support thr
 ![Office Worker Task 1](Photos/task1persona3)
 
 Findings from the HTAs for Task 1
-1. Technical Challenges
--Many users face delays due to slow website performance on basic devices.
--Navigation elements often malfunction or fail to respond properly.
+1. Technical Challenges<br>
+-Many users face delays due to slow website performance on basic devices.<br>
+-Navigation elements often malfunction or fail to respond properly.<br>
 -Visual obstructions and layout glitches make it hard to read or interact.
 
-2. User Experience Problems
--Interfaces are poorly adjusted for small screen sizes.
--Disorganized design and dense text reduce readability.
+2. User Experience Problems<br>
+-Interfaces are poorly adjusted for small screen sizes.<br>
+-Disorganized design and dense text reduce readability.<br>
 -Users often cannot find or reach the legal information they’re looking for.
-3. Emotional and Behavioral Reactions
--Confusion and irritation arise from unclear content and tool limitations.
--Users frequently abandon the process before reaching a solution.
+3. Emotional and Behavioral Reactions<br>
+-Confusion and irritation arise from unclear content and tool limitations.<br>
+-Users frequently abandon the process before reaching a solution.<br>
 -Negative experiences reduce trust and motivation to seek help again.
-4. Barriers to Access
+4. Barriers to Access<br>
 Legal resources do not cater to low-spec devices or unstable internet connections.
 Many people are excluded from accessing their rights due to digital limitations.
-5. Recommendations
--Create fast, efficient platforms that work well on all types of mobile devices.
--Use clear structure, responsive design, and simplified features.
+5. Recommendations<br>
+-Create fast, efficient platforms that work well on all types of mobile devices.<br>
+-Use clear structure, responsive design, and simplified features.<br>
 -Present content in plain language and ensure intuitive navigation for everyone.
 
 ---
