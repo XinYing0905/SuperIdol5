@@ -177,7 +177,7 @@ Many people are excluded from accessing their rights due to digital limitations.
 - Plan 4: Do 4.1 → 4.2  
 
 **Diagram Presentation**  
-`![HTA Task 2 - High School Student](path/to/highschool_task2.png)`
+![HTA Task 2 - High School Student](Photos/Persona2Task2.drawio.png)
 
 ---
 
