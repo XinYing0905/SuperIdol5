@@ -24,3 +24,45 @@ Our interface is designed mobile-first to cater to the majority of users who acc
 ![Mobile First User-Centered Interface Storyboard](Photos/task3%20storyboard.png)
 
 
+# 🎨 Alternative Design Concepts (Crazy 8s)
+
+The following are design alternatives created by team members during our Crazy 8s brainstorming session. Each concept explores a different approach to enhancing user experience and addressing our core goals: simplification, anonymity, and mobile usability.
+
+---
+
+## 🧑‍🎨 Alternative Design 1 – Lee Jia Yee
+
+![Alternative Design 1 – Lee Jia Yee](Photos/crazy8jy.png)
+
+---
+
+## 🧑‍🎨 Alternative Design 2 – Leong Jia Ling
+
+![Alternative Design 2 – Leong Jia Ling](Photos/crazy8jl.png)
+
+---
+
+## 🧑‍🎨 Alternative Design 3 – Gwee Zi Ni
+
+
+![Alternative Design 3 – Gwee Zi Ni](Photos/crazy8zn.png)
+
+---
+
+## 🧑‍🎨 Alternative Design 4 – Michelle Ho Chia Xin
+
+
+![Alternative Design 4 – Michelle Ho Chia Xin](Photos/crazy9mic.png)
+
+---
+
+## 🧑‍🎨 Alternative Design 5 – Tay Xin Ying
+
+![Alternative Design 5 – Tay Xin Ying](Photos/crazy8xy.png)
+
+---
+
+
+
+
+
