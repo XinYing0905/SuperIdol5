@@ -170,6 +170,47 @@ The Task 3 (Mobile-First, User-Centered Interface) design effectively applied se
 
 **The design meets the requirements of Task 3 by providing a mobile-first interface that is responsive, lightweight, and easy to navigate—ensuring accessibility for users with basic smartphones, limited data plans, and slow internet connections.**
 
+# 🎭 Design Metaphors
+
+Design metaphors help users relate unfamiliar digital interfaces to familiar real-world concepts, improving intuitiveness and usability.
+
+---
+
+## 🪞 Metaphor 1
+
+![Metaphor 1](Photos/metaphor1.png)
+
+---
+
+## 🪞 Metaphor 2
+
+![Metaphor 2](Photos/metaphor2.png)
+
+---
+
+## 🪞 Metaphor 3
+
+![Metaphor 3](Photos/metaphor3.png)
+
+---
+
+## 🪞 Metaphor 4
+
+![Metaphor 4](Photos/metaphor4.png)
+
+---
+
+## 🪞 Metaphor 5
+
+![Metaphor 5](Photos/metaphor5.png)
+
+---
+
+## 🪞 Metaphor 6
+
+![Metaphor 6](Photos/metaphor6.png)
+
+
 
 
 
