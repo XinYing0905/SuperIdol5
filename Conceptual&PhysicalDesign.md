@@ -24,6 +24,7 @@ Our interface is designed mobile-first to cater to the majority of users who acc
 **Storyboard:**
 ![Mobile First User-Centered Interface Storyboard](Photos/task3%20storyboard.png)
 
+---
 
 # 🎨 Alternative Design Concepts (Crazy 8s)
 
@@ -61,7 +62,6 @@ The following are design alternatives created by team members during our Crazy 8
 
 ![Alternative Design 5 – Tay Xin Ying](Photos/crazy8xy.png)
 
----
 ---
 
 # 🧾 Wireframes & Design Rationale
@@ -173,7 +173,7 @@ The Task 3 (Mobile-First, User-Centered Interface) design effectively applied se
 **The design meets the requirements of Task 3 by providing a mobile-first interface that is responsive, lightweight, and easy to navigate—ensuring accessibility for users with basic smartphones, limited data plans, and slow internet connections.**
 
 ---
----
+
 # 🎭 Design Metaphors
 
 Design metaphors help users relate unfamiliar digital interfaces to familiar real-world concepts, improving intuitiveness and usability.
