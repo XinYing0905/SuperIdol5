@@ -212,21 +212,21 @@ Design metaphors help users relate unfamiliar digital interfaces to familiar rea
 
 ---
 
-## 🪞 Metaphor 4
+## 🪞 Metaphor 7
 
-![Metaphor 4](Photos/metaphor4.png)
-
----
-
-## 🪞 Metaphor 5
-
-![Metaphor 5](Photos/metaphor5.png)
+![Metaphor 7](Photos/metaphor7.jpg)
 
 ---
 
-## 🪞 Metaphor 6
+## 🪞 Metaphor 8
 
-![Metaphor 6](Photos/metaphor6.png)
+![Metaphor 8](Photos/metaphor8.jpg)
+
+---
+
+## 🪞 Metaphor 9
+
+![Metaphor 9](Photos/metaphor9.jpg)
 
 
 
