@@ -60,7 +60,7 @@ The following are design alternatives created by team members during our Crazy 8
 
 ## 🧑‍🎨 Alternative Design 5 – Tay Xin Ying
 
-![Alternative Design 5 – Tay Xin Ying](Photos/crazy8xy.JPG)
+![Alternative Design 5 – Tay Xin Ying](Photos/carzy8xy.JPG)
 
 ---
 
