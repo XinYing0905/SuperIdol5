@@ -1,3 +1,4 @@
+# 📜 Storyboards
 ## 🧠 Goal 1: Simplified Legal Content
 
 Many users struggle to understand complex legal jargon. Our platform simplifies legal information into digestible, visually guided content. This makes it easier for everyone — especially those with no legal background — to understand their rights and available resources.
