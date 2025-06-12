@@ -34,27 +34,27 @@ The following are design alternatives created by team members during our Crazy 8
 
 ## 🧑‍🎨 Alternative Design 1 – Lee Jia Yee
 
-![Alternative Design 1 – Lee Jia Yee](Photos/crazy8jy.png)
+![Alternative Design 1 – Lee Jia Yee](Photos/crazy8jy.JPG)
 
 ---
 
 ## 🧑‍🎨 Alternative Design 2 – Leong Jia Ling
 
-![Alternative Design 2 – Leong Jia Ling](Photos/crazy8jl.png)
+![Alternative Design 2 – Leong Jia Ling](Photos/crazy8jl.JPG)
 
 ---
 
 ## 🧑‍🎨 Alternative Design 3 – Gwee Zi Ni
 
 
-![Alternative Design 3 – Gwee Zi Ni](Photos/crazy8zn.png)
+![Alternative Design 3 – Gwee Zi Ni](Photos/crazy8zn.JPG)
 
 ---
 
 ## 🧑‍🎨 Alternative Design 4 – Michelle Ho Chia Xin
 
 
-![Alternative Design 4 – Michelle Ho Chia Xin](Photos/crazy9mic.png)
+![Alternative Design 4 – Michelle Ho Chia Xin](Photos/crazy8mic.JPG)
 
 ---
 
