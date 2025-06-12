@@ -64,6 +64,29 @@ The following are design alternatives created by team members during our Crazy 8
 
 ---
 
+# 🗳️ Voted Design Elements & Layouts
+
+The voted design served as an inspiration for all of us during the wireframe development process. Several elements and layouts were adopted, refined, and incorporated into the final wireframe designs.
+
+---
+
+## 🖼️ Voted Design 1
+
+<img src="Photos/voted1.png" alt="Voted Design 1" width="600"/>
+
+---
+
+## 🖼️ Voted Design 2
+
+<img src="Photos/voted2.png" alt="Voted Design 2" width="600"/>
+
+---
+
+## 🖼️ Voted Design 3
+
+<img src="Photos/voted3.png" alt="Voted Design 3" width="600"/>
+
+
 # 🧾 Wireframes & Design Rationale
 
 ## Task 1: Understand Legal Content in Simple Language
