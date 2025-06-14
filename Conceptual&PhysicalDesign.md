@@ -66,7 +66,7 @@ The following are design alternatives created by team members during our Crazy 8
 
 # 🗳️ Voted Design Elements & Layouts
 
-The voted design served as an inspiration for all of us during the wireframe development process. Several elements and layouts were adopted, refined, and incorporated into the final wireframe designs.
+The voted design **served as an inspiration** for all of us during the wireframe development process. Several elements and layouts were adopted, refined, and incorporated into the final wireframe designs.
 
 ---
 
