@@ -72,19 +72,19 @@ The voted design **served as an inspiration** for all of us during the wireframe
 
 ## 🖼️ Voted Design 1
 
-<img src="Photos/voted1.png" alt="Voted Design 1" width="600"/>
+<img src="Photos/voted1.JPG" alt="Voted Design 1" width="600"/>
 
 ---
 
 ## 🖼️ Voted Design 2
 
-<img src="Photos/voted2.png" alt="Voted Design 2" width="600"/>
+<img src="Photos/voted2.JPG" alt="Voted Design 2" width="600"/>
 
 ---
 
 ## 🖼️ Voted Design 3
 
-<img src="Photos/voted3.png" alt="Voted Design 3" width="600"/>
+<img src="Photos/voted3.JPG" alt="Voted Design 3" width="600"/>
 
 
 # 🧾 Wireframes & Design Rationale
