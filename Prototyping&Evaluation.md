@@ -1,5 +1,5 @@
 # Prototyping and Evaluation
-## Introduction
+## 🤗 Introduction
 Our team developed a high-fidelity prototype using Figma to simulate three main tasks aligned with the goals of our project, including allowing users to understand legal information in simple language, allowing users to obtain professional help safely through anonymous chat functions and access legal resources smoothly.
 
 The usability testing took place in several locations. Both User 1 and User 2 completed their sessions in KTDI; while User 3's session took place in L50. The equipment used was laptop and handphone. The prototype was displayed using a laptop, with the front camera continuously recording the user’s facial expressions throughout the test. Meanwhile, the handphone was used to film the session in another angle from a wider angle that included the host in the camera frame. 
@@ -9,9 +9,9 @@ To evaluate the usability of our design, three main tasks were tested among thre
 Each usability test was conducted by a group member. Michelle Ho Chia Xin was responsible for testing with User 1, Leong Jia Ling handled the session with User 2, and Tay Xin Ying facilitated the test with User 3. This division of tasks helped maintain consistency and focus throughout the evaluation process.
 
 ---
-##  Screenshot of Prototype
+##  📷 Screenshot of Prototype
 <p align="center">
- ![p1](Photos/p1.png)
+  <img src="Photos/p1.png" alt="p1" width="500"/><br>
   <strong>Figure 1</strong>: JustiLink's entry screen with access options and value proposition
 </p>
 
@@ -19,7 +19,7 @@ The JustiLink entry screen welcomes users with a clear value proposition and pro
 
 ---
 <p align="center">
-  ![p2](Photos/p2.png)
+  <img src="Photos/p2.png" alt="p1" width="500"/><br>
   <strong>Figure 2</strong>: JustiLink's homepage with categorized legal service access
 </p>
 
@@ -27,7 +27,7 @@ The JustiLink homepage provides direct access to core legal services through fou
 
 ---
 <p align="center">
-![p3](Photos/p3.png)
+<img src="Photos/p3.png" alt="p1" width="500"/><br>
   <strong>Figure 3</strong>: Informational screen with categorized content
 </p>
 
@@ -35,7 +35,7 @@ This screen delivers structured informational content, organized into clear sect
 
 ---
 <p align="center">
-![p4](Photos/p4.png)
+<img src="Photos/p4.png" alt="p1" width="500"/><br>
   <strong>Figure 4</strong>: Anonymous chat interface with real person and chatbot options
 </p>
 
@@ -43,7 +43,7 @@ The Anonymous Chat screen offers confidential legal support through both human e
 
 ---
 <p align="center">
-![p5](Photos/p5.png)
+<img src="Photos/p5.png" alt="p1" width="500"/><br>
   <strong>Figure 5</strong>: Glossary interface with toggleable definition formats
 </p>
 
@@ -51,7 +51,7 @@ The Legal Term Glossary screen offers users flexible access to legal definitions
 
 ---
 <p align="center">
-![p6](Photos/p6.png)
+<img src="Photos/p6.png" alt="p1" width="500"/><br>
   <strong>Figure 6</strong>: Interface with saved content in library and FAQ section
 </p>
 
@@ -59,7 +59,7 @@ The interface screen combines saved offline content and a comprehensive FAQ sect
 
 ---
 <p align="center">
-![p7](Photos/p7.png)
+<img src="Photos/p7.png" alt="p1" width="500"/><br>
   <strong>Figure 7</strong>: Multilingual interface showing Bahasa Indonesia content
 </p>
 
@@ -67,13 +67,13 @@ The interface demonstrates JustiLink's multilingual capability by presenting law
 
 ---
 
-## Briefing notes – prepared by {TAY XIN YING}
+## 🧾 Briefing notes – prepared by {TAY XIN YING}
 Hi xxx, welcome to the usability testing of JustiLink app!
 We will start off by introducing a little about our app to you. The JustiLink application is designed to help users- especially students, migrant workers, and individuals with limited legal knowledge or low income individuals to access legal information and guidance in a simplified and convenient way.
 Before starting our test, I would like to ask for your consent. Do you agree to take part in our usability test?
 Thank you.
 
-**For Persona 1(student)**
+**For Persona 1(Student):**
 
 {In this test, you will act as a high school student who is currently facing bullying. You may try to explore our app, to see if you can obtain necessary help through our app.
 
@@ -81,7 +81,7 @@ This is your task, “Understand legal content in simple language”. Please rea
 
 This is your task, “Chat anonymously to obtain legal help”. Please read out your task. For your information, for whatever reason you are unable to complete the task or could not figure out how to complete the task, you should say loudly “terminate”. You may begin the task now.}
 
-**For Persona 2 (Migrant worker)**
+**For Persona 2 (Migrant worker):**
 
 {In this test, you will act as a migrant worker with limited legal knowledge and doesn’t understand English at all. You may try out our app to see if you can understand the translated and simplified version of legal content.
 
@@ -89,7 +89,7 @@ This is your task, “Understand legal content in simple language”. Please rea
 
 This is your task, “Access any legal aid resources”. Please read out your task. For your information, for whatever reason you are unable to complete the task or could not figure out how to complete the task, you should say loudly “terminate”. You may begin the task now.}
 
-**For Persona 3(Low-income individual)**
+**For Persona 3(Low-income individual):**
 
 {In this test, you will act as a low income individual with limited legal knowledge. You may try to seek some legal information regarding labour law or employee’s rights through our app. Let’s see if you will like the simplified version of complicated legal content!
 
@@ -99,58 +99,63 @@ This is your task, “Chat anonymously to obtain legal help”. Please read out 
 
 This is your task, “Access any legal aid resources”. Please read out your task. For your information, for whatever reason you are unable to complete the task or could not figure out how to complete the task, you should say loudly “terminate”. You may begin the task now.}
 
-**Interview questions**
+**Interview questions:**
 
-What is the thing you like the most about our app?
+- What is the thing you like the most about our app?
 
-Do you find any part of our app problematic?
+- Do you find any part of our app problematic?
 
-What improvements on our app can be done?
+- What improvements on our app can be done?
 
-## Testing With Users
-**Task 1: Understand legal content in simple language**
+---
 
-Xin Yee’s task 1 video:
+## 🎥 Testing With Users
+### Task 1: Understand legal content in simple language
 
-[![XinYee’s task 1 video](v1.png)]( https://drive.google.com/file/d/1Pg6tzfiY8EPQygW3sKB87me9MkzhQnD_/view?usp=sharing)<br>
+**Xin Yee’s task 1 video:**
+
+[![XinYee’s task 1 video](Photos/v1.png)]( https://drive.google.com/file/d/1Pg6tzfiY8EPQygW3sKB87me9MkzhQnD_/view?usp=sharing)<br>
 *click here to watch the video👆* <br>
 
-Evelyn’s task 1 video:
+**Evelyn’s task 1 video:**
 
-[![Evelyn’s task 1 video](v2.png)]( https://drive.google.com/file/d/1bY0BHQvL7TpqkSsBBskVoBMXLGfwOtjg/view?usp=sharing)<br>
+[![Evelyn’s task 1 video](Photos/v2.png)]( https://drive.google.com/file/d/1bY0BHQvL7TpqkSsBBskVoBMXLGfwOtjg/view?usp=sharing)<br>
 *click here to watch the video👆* <br>
 
-Yao Ting’s task 1 video:
+**Yao Ting’s task 1 video:**
 
-[![Yao Ting’s task 1 video](v3.png)]( https://drive.google.com/file/d/1q9zQ8_XLyeEt39kbDR7thntm5kFgYJjg/view?usp=sharing)<br>
+[![Yao Ting’s task 1 video](Photos/v3.png)]( https://drive.google.com/file/d/1q9zQ8_XLyeEt39kbDR7thntm5kFgYJjg/view?usp=sharing)<br>
+*click here to watch the video👆* <br> <br> <br>
+
+
+### Task 2: Chat anonymously to obtain legal help
+
+**Xin Yee’s task 2 video:**
+
+[![XinYee’s task 2 video](Photos/v4.png)]( https://drive.google.com/file/d/1nbHrYWKTjIE1wtPr6uDPAwITGNOORCh4/view?usp=sharing)<br>
 *click here to watch the video👆* <br>
 
-**Task 2: Chat anonymously to obtain legal help**
+**Yao Ting’s task 2 video:**
 
-Xin Yee’s task 2 video:
+[![Yao Ting’s task 2 video](Photos/v5.png)]( https://drive.google.com/file/d/1N0X6wyz-i5rRpa1KNAXLlD9TVkfRKqkN/view?usp=sharing)<br>
+*click here to watch the video👆* <br> <br> <br>
 
-[![XinYee’s task 2 video](v4.png)]( https://drive.google.com/file/d/1nbHrYWKTjIE1wtPr6uDPAwITGNOORCh4/view?usp=sharing)<br>
+
+### Task 3: Access any legal aid resources
+
+**Evelyn’s task 2 video:**
+
+[![Evelyn’s task 3 video](Photos/v6.png)]( https://drive.google.com/file/d/1nznNHaQ2pgV0HHKZj1uTNw8kX0EjO5kC/view?usp=sharing)<br>
 *click here to watch the video👆* <br>
 
-Yao Ting’s task 2 video:
+**Yao Ting’s task 3 video:**
 
-[![Yao Ting’s task 2 video](v5.png)]( https://drive.google.com/file/d/1N0X6wyz-i5rRpa1KNAXLlD9TVkfRKqkN/view?usp=sharing)<br>
+[![Yao Ting’s task 3 video](Photos/v7.png)]( https://drive.google.com/file/d/1NeeY3vJWLTDXHul4CgXmLJfK1ldlLEk-/view?usp=sharing)<br>
 *click here to watch the video👆* <br>
 
-**Task 3: Access any legal aid resources**
+---
 
-Evelyn’s task 2 video:
-
-[![Evelyn’s task 3 video](v6.png)]( https://drive.google.com/file/d/1nznNHaQ2pgV0HHKZj1uTNw8kX0EjO5kC/view?usp=sharing)<br>
-*click here to watch the video👆* <br>
-
-Yao Ting’s task 3 video:
-
-[![Yao Ting’s task 3 video](v7.png)]( https://drive.google.com/file/d/1NeeY3vJWLTDXHul4CgXmLJfK1ldlLEk-/view?usp=sharing)<br>
-*click here to watch the video👆* <br>
-
-
-## Observations - prepared by {MICHELLE HO CHIA XIN, LEONG JIA LING, GWEE ZI NI, TAY XIN YING}
+## 🧐 Observations - prepared by {MICHELLE HO CHIA XIN, LEONG JIA LING, GWEE ZI NI, TAY XIN YING}
 
 ### Task 1 - Understand legal content in simple language
 
@@ -305,7 +310,9 @@ Despite the overall positive response, several areas for improvement were identi
 
 In conclusion, while the core functionalities and features of the application, such as the legal terms translation, offline access, legal resources, and chatbot, have been well-received, addressing the identified issues related to font readability, button size, and interface navigation will significantly improve the application's usability and enhance the overall user experience.
 
-## Findings – prepared by {MICHELLE HO CHIA XIN, LEONG JIA LING, GWEE ZI NI}
+---
+
+## 🔍 Findings – prepared by {MICHELLE HO CHIA XIN, LEONG JIA LING, GWEE ZI NI}
 
 | **Problem** | **Solution** | **Remark** |
 |----------|------------|------------|
