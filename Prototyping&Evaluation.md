@@ -284,7 +284,7 @@ This is your task, “Access any legal aid resources”. Please read out your ta
 
 **Question 3:** What improvements on our app can be done?
 -	Expand the clickable area in the legal glossary section to include the entire sector, not just the icon.
-The "Show Both Meaning" checkbox is perceived as redundant. Users suggest only providing "Show Original Legal Definition" and "Show Simplified Meaning" checkboxes, allowing them to tick both if they wish to view both meanings simultaneously.
+- The "Show Both Meaning" checkbox is perceived as redundant. Users suggest only providing "Show Original Legal Definition" and "Show Simplified Meaning" checkboxes, allowing them to tick both if they wish to view both meanings simultaneously.
 
 **User 3: Chun Yao Ting**
 
